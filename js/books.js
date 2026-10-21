@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
     card.innerHTML = `
       <div class="book-card__img-wrap">
         <img src="${book.cover}" alt="${book.title}" class="book-card__img" loading="lazy"
-             onerror="this.src='https://via.placeholder.com/400x600/E8742C/ffffff?text=No+Cover'">
+             onerror="this.src='assets/images/fiction/fiction-1.jpg'">
         ${book.badge ? `<span class="book-card__badge">${book.badge}</span>` : ''}
         <button class="book-card__wishlist ${inWL ? 'book-card__wishlist--active' : ''}"
                 data-id="${book.id}" aria-label="Toggle wishlist">

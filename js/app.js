@@ -139,7 +139,7 @@ function openQuickView(book) {
   openModal(`
     <div class="qv">
       <div class="qv__img-wrap">
-        <img src="${book.cover}" alt="${book.title}" class="qv__img" onerror="this.src='https://via.placeholder.com/400x600/E8742C/ffffff?text=No+Cover'">
+        <img src="${book.cover}" alt="${book.title}" class="qv__img" onerror="this.src='assets/images/fiction/fiction-1.jpg'">
         ${book.badge ? `<span class="qv__badge">${book.badge}</span>` : ''}
       </div>
       <div class="qv__info">

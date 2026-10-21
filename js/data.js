@@ -13,7 +13,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 239,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "Winner of universal acclaim, \"The Midnight Library\" takes readers on a poignant and lyrical adventure. Matt Haig examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -26,7 +26,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 465,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "In \"One Hundred Years of Solitude\", Gabriel García Márquez weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -39,7 +39,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 691,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "Winner of universal acclaim, \"Norwegian Wood\" takes readers on a poignant and lyrical adventure. Haruki Murakami examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -52,7 +52,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 917,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "In \"The Secret History\", Donna Tartt weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -65,7 +65,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1143,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "Winner of universal acclaim, \"Neverwhere\" takes readers on a poignant and lyrical adventure. Neil Gaiman examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -78,7 +78,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1369,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "In \"Americanah\", Chimamanda Ngozi Adichie weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -91,7 +91,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1595,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "In \"Never Let Me Go\", Kazuo Ishiguro weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -104,7 +104,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1821,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by George Orwell. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"1984\"."
   },
   {
@@ -117,7 +117,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2047,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Virginia Woolf. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"To the Lighthouse\"."
   },
   {
@@ -130,7 +130,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2273,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by F. Scott Fitzgerald. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Great Gatsby\"."
   },
   {
@@ -143,7 +143,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2499,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by J.D. Salinger. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Catcher in the Rye\"."
   },
   {
@@ -156,7 +156,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2725,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "In \"The God of Small Things\", Arundhati Roy weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -169,7 +169,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2951,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "Winner of universal acclaim, \"Life of Pi\" takes readers on a poignant and lyrical adventure. Yann Martel examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -182,7 +182,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3177,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"The Book Thief\" takes readers on a poignant and lyrical adventure. Markus Zusak examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -195,7 +195,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3403,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Khaled Hosseini. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Kite Runner\"."
   },
   {
@@ -208,7 +208,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3629,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Paulo Coelho. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"A Thousand Splendid Suns\"."
   },
   {
@@ -221,7 +221,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3855,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "In \"The Alchemist\", Cormac McCarthy weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -234,7 +234,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4081,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by David Mitchell. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Road\"."
   },
   {
@@ -247,7 +247,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4307,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Min Jin Lee. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Cloud Atlas\"."
   },
   {
@@ -260,7 +260,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4533,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Carlos Ruiz Zafón. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Pachinko\"."
   },
   {
@@ -273,7 +273,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4759,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Anthony Doerr. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Shadow of the Wind\"."
   },
   {
@@ -286,7 +286,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4985,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"All the Light We Cannot See\" takes readers on a poignant and lyrical adventure. Taylor Jenkins Reid examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -299,7 +299,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5211,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Sally Rooney. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Seven Husbands of Evelyn Hugo\"."
   },
   {
@@ -312,7 +312,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5437,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Hanya Yanagihara. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Normal People\"."
   },
   {
@@ -325,7 +325,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5663,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "Winner of universal acclaim, \"A Little Life\" takes readers on a poignant and lyrical adventure. Delia Owens examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -338,7 +338,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5889,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "Winner of universal acclaim, \"Where the Crawdads Sing\" takes readers on a poignant and lyrical adventure. Madeline Miller examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -351,7 +351,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6115,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Susanna Clarke. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Circe\"."
   },
   {
@@ -364,7 +364,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6341,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "Winner of universal acclaim, \"The Song of Achilles\" takes readers on a poignant and lyrical adventure. Emily St. John Mandel examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -377,7 +377,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6567,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "Winner of universal acclaim, \"Piranesi\" takes readers on a poignant and lyrical adventure. Gabrielle Zevin examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -390,7 +390,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6793,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "In \"Station Eleven\", R.F. Kuang weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -403,7 +403,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7019,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "In \"Sea of Tranquility\", Genki Kawamura weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -416,7 +416,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7245,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "Winner of universal acclaim, \"Tomorrow, and Tomorrow, and Tomorrow\" takes readers on a poignant and lyrical adventure. Yoko Ogawa examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -429,7 +429,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7471,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "In \"Babel\", Sayaka Murata weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -442,7 +442,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7697,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "Winner of universal acclaim, \"Kafka on the Shore\" takes readers on a poignant and lyrical adventure. Toshikazu Kawaguchi examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -455,7 +455,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7923,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "Winner of universal acclaim, \"The Memory Police\" takes readers on a poignant and lyrical adventure. Sun-mi Hwang examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -468,7 +468,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8149,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "Winner of universal acclaim, \"Convenience Store Woman\" takes readers on a poignant and lyrical adventure. Durjoy Datta examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -481,7 +481,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8375,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "In \"Before the Coffee Gets Cold\", Ruskin Bond weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -494,7 +494,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8601,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"Days at the Morisaki Bookshop\" takes readers on a poignant and lyrical adventure. R.K. Narayan examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -507,7 +507,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8827,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "Winner of universal acclaim, \"What You Are Looking for is in the Library\" takes readers on a poignant and lyrical adventure. Jhumpa Lahiri examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -520,7 +520,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9053,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "In \"The Housekeeper and the Professor\", Salman Rushdie weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -533,7 +533,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9279,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "In \"Sweet Bean Paste\", Amitav Ghosh weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -546,7 +546,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9505,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "Winner of universal acclaim, \"The Hen Who Dreamed She Could Fly\" takes readers on a poignant and lyrical adventure. Aravind Adiga examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -559,7 +559,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9731,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "In \"Please Look After Mom\", Vikram Seth weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -572,7 +572,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 307,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "In \"The White Tiger\", Anita Desai weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -585,7 +585,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 533,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Kiran Desai. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"A Suitable Boy\"."
   },
   {
@@ -598,7 +598,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 759,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Matt Haig. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Namesake\"."
   },
   {
@@ -611,7 +611,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 985,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Gabriel García Márquez. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Midnight's Children\"."
   },
   {
@@ -624,7 +624,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1211,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "In \"The Shadow Lines\", Haruki Murakami weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -637,7 +637,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1437,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Donna Tartt. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Palace of Illusions\"."
   },
   {
@@ -650,7 +650,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1663,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "In \"Clear Light of Day\", Neil Gaiman weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -663,7 +663,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1889,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "Winner of universal acclaim, \"The Inheritance of Loss\" takes readers on a poignant and lyrical adventure. Chimamanda Ngozi Adichie examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -676,7 +676,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2115,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Kazuo Ishiguro. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Interpreter of Maladies\"."
   },
   {
@@ -689,7 +689,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2341,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "In \"Sea of Poppies\", George Orwell weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -702,7 +702,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2567,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Virginia Woolf. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Blue Umbrella\"."
   },
   {
@@ -715,7 +715,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2793,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "Winner of universal acclaim, \"Malgudi Days\" takes readers on a poignant and lyrical adventure. F. Scott Fitzgerald examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -728,7 +728,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3019,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "In \"Swami and Friends\", J.D. Salinger weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -741,7 +741,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3245,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "Winner of universal acclaim, \"The Guide\" takes readers on a poignant and lyrical adventure. Arundhati Roy examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -754,7 +754,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3471,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Yann Martel. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Untouchable\"."
   },
   {
@@ -767,7 +767,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3697,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "Winner of universal acclaim, \"Train to Pakistan\" takes readers on a poignant and lyrical adventure. Markus Zusak examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -780,7 +780,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3923,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Khaled Hosseini. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Tomb of Sand\"."
   },
   {
@@ -793,7 +793,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4149,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Paulo Coelho. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Ghachar Ghochar\"."
   },
   {
@@ -806,7 +806,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4375,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"Cobalt Blue\" takes readers on a poignant and lyrical adventure. Cormac McCarthy examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -819,7 +819,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4601,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "Winner of universal acclaim, \"Em and the Big Hoom\" takes readers on a poignant and lyrical adventure. David Mitchell examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -832,7 +832,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4827,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "In \"The Midnight Library: The Complete Guide\", Madeline Miller weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -845,7 +845,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5053,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "In \"One Hundred Years of Solitude: Legacy Edition\", Susanna Clarke weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -858,7 +858,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5279,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "Winner of universal acclaim, \"Norwegian Wood: The Definitive Collection\" takes readers on a poignant and lyrical adventure. Emily St. John Mandel examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -871,7 +871,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5505,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Gabrielle Zevin. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Secret History: Illustrated Edition\"."
   },
   {
@@ -884,7 +884,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5731,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by R.F. Kuang. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Neverwhere: Chronicles\"."
   },
   {
@@ -897,7 +897,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5957,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "In \"Americanah: Volume II\", Genki Kawamura weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -910,7 +910,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6183,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Yoko Ogawa. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Never Let Me Go: Annotated Edition\"."
   },
   {
@@ -923,7 +923,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6409,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "Winner of universal acclaim, \"1984: The Complete Guide\" takes readers on a poignant and lyrical adventure. Sayaka Murata examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -936,7 +936,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6635,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "Winner of universal acclaim, \"To the Lighthouse: Legacy Edition\" takes readers on a poignant and lyrical adventure. Toshikazu Kawaguchi examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -949,7 +949,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6861,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "In \"The Great Gatsby: The Definitive Collection\", Sun-mi Hwang weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -962,7 +962,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7087,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "In \"The Catcher in the Rye: Illustrated Edition\", Durjoy Datta weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -975,7 +975,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7313,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Ruskin Bond. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The God of Small Things: Chronicles\"."
   },
   {
@@ -988,7 +988,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7539,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by R.K. Narayan. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Life of Pi: Volume II\"."
   },
   {
@@ -1001,7 +1001,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7765,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "Winner of universal acclaim, \"The Book Thief: Annotated Edition\" takes readers on a poignant and lyrical adventure. Jhumpa Lahiri examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1014,7 +1014,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7991,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Salman Rushdie. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Kite Runner: The Complete Guide\"."
   },
   {
@@ -1027,7 +1027,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8217,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "In \"A Thousand Splendid Suns: Legacy Edition\", Amitav Ghosh weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1040,7 +1040,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8443,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Aravind Adiga. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Alchemist: The Definitive Collection\"."
   },
   {
@@ -1053,7 +1053,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8669,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Vikram Seth. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Road: Illustrated Edition\"."
   },
   {
@@ -1066,7 +1066,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8895,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Anita Desai. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Cloud Atlas: Chronicles\"."
   },
   {
@@ -1079,7 +1079,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9121,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "Winner of universal acclaim, \"Pachinko: Volume II\" takes readers on a poignant and lyrical adventure. Kiran Desai examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1092,7 +1092,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 9347,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "Winner of universal acclaim, \"The Shadow of the Wind: Annotated Edition\" takes readers on a poignant and lyrical adventure. Matt Haig examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1105,7 +1105,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9573,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "In \"All the Light We Cannot See: The Complete Guide\", Gabriel García Márquez weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1118,7 +1118,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9799,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "In \"The Seven Husbands of Evelyn Hugo: Legacy Edition\", Haruki Murakami weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1131,7 +1131,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 375,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "Winner of universal acclaim, \"Normal People: The Definitive Collection\" takes readers on a poignant and lyrical adventure. Donna Tartt examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1144,7 +1144,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 601,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "Winner of universal acclaim, \"A Little Life: Illustrated Edition\" takes readers on a poignant and lyrical adventure. Neil Gaiman examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1157,7 +1157,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 827,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "Winner of universal acclaim, \"Where the Crawdads Sing: Chronicles\" takes readers on a poignant and lyrical adventure. Chimamanda Ngozi Adichie examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1170,7 +1170,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1053,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "Winner of universal acclaim, \"Circe: Volume II\" takes readers on a poignant and lyrical adventure. Kazuo Ishiguro examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1183,7 +1183,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1279,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "Winner of universal acclaim, \"The Song of Achilles: Annotated Edition\" takes readers on a poignant and lyrical adventure. George Orwell examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1196,7 +1196,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1505,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "Winner of universal acclaim, \"Piranesi: The Complete Guide\" takes readers on a poignant and lyrical adventure. Virginia Woolf examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1209,7 +1209,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1731,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "Winner of universal acclaim, \"Station Eleven: Legacy Edition\" takes readers on a poignant and lyrical adventure. F. Scott Fitzgerald examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1222,7 +1222,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1957,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"Sea of Tranquility: The Definitive Collection\" takes readers on a poignant and lyrical adventure. J.D. Salinger examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1235,7 +1235,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2183,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "Winner of universal acclaim, \"Tomorrow, and Tomorrow, and Tomorrow: Illustrated Edition\" takes readers on a poignant and lyrical adventure. Arundhati Roy examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1248,7 +1248,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2409,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Yann Martel. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Babel: Chronicles\"."
   },
   {
@@ -1261,7 +1261,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2635,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "Winner of universal acclaim, \"Kafka on the Shore: Volume II\" takes readers on a poignant and lyrical adventure. Markus Zusak examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1274,7 +1274,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2861,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Khaled Hosseini. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Memory Police: Annotated Edition\"."
   },
   {
@@ -1287,7 +1287,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3087,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "In \"Convenience Store Woman: The Complete Guide\", Paulo Coelho weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1300,7 +1300,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3313,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "In \"Before the Coffee Gets Cold: Legacy Edition\", Cormac McCarthy weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1313,7 +1313,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3539,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by David Mitchell. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Days at the Morisaki Bookshop: The Definitive Collection\"."
   },
   {
@@ -1326,7 +1326,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3765,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "In \"What You Are Looking for is in the Library: Illustrated Edition\", Min Jin Lee weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1339,7 +1339,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3991,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "In \"The Housekeeper and the Professor: Chronicles\", Carlos Ruiz Zafón weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1352,7 +1352,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4217,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "Winner of universal acclaim, \"Sweet Bean Paste: Volume II\" takes readers on a poignant and lyrical adventure. Anthony Doerr examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1365,7 +1365,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4443,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Taylor Jenkins Reid. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Hen Who Dreamed She Could Fly: Annotated Edition\"."
   },
   {
@@ -1378,7 +1378,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4669,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "Winner of universal acclaim, \"Please Look After Mom: The Complete Guide\" takes readers on a poignant and lyrical adventure. Sally Rooney examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1391,7 +1391,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4895,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Hanya Yanagihara. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The White Tiger: Legacy Edition\"."
   },
   {
@@ -1404,7 +1404,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5121,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Delia Owens. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"A Suitable Boy: The Definitive Collection\"."
   },
   {
@@ -1417,7 +1417,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5347,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Madeline Miller. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Namesake: Illustrated Edition\"."
   },
   {
@@ -1430,7 +1430,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5573,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"Midnight's Children: Chronicles\" takes readers on a poignant and lyrical adventure. Susanna Clarke examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1443,7 +1443,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5799,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Emily St. John Mandel. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Shadow Lines: Volume II\"."
   },
   {
@@ -1456,7 +1456,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6025,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Gabrielle Zevin. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Palace of Illusions: Annotated Edition\"."
   },
   {
@@ -1469,7 +1469,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6251,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "In \"Clear Light of Day: The Complete Guide\", R.F. Kuang weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1482,7 +1482,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6477,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "In \"The Inheritance of Loss: Legacy Edition\", Genki Kawamura weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1495,7 +1495,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6703,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "In \"Interpreter of Maladies: The Definitive Collection\", Yoko Ogawa weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1508,7 +1508,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6929,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "In \"Sea of Poppies: Illustrated Edition\", Sayaka Murata weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1521,7 +1521,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7155,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "In \"The Blue Umbrella: Chronicles\", Toshikazu Kawaguchi weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1534,7 +1534,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7381,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1476275466078-4cad320e7cbe?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-6.jpg",
     "description": "Winner of universal acclaim, \"Malgudi Days: Volume II\" takes readers on a poignant and lyrical adventure. Sun-mi Hwang examines love, grief, longing, and redemption with striking prose."
   },
   {
@@ -1547,7 +1547,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7607,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-7.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Durjoy Datta. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Swami and Friends: Annotated Edition\"."
   },
   {
@@ -1560,7 +1560,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7833,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-8.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Ruskin Bond. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"The Guide: The Complete Guide\"."
   },
   {
@@ -1573,7 +1573,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8059,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-1.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by R.K. Narayan. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Untouchable: Legacy Edition\"."
   },
   {
@@ -1586,7 +1586,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8285,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-2.jpg",
     "description": "In \"Train to Pakistan: The Definitive Collection\", Jhumpa Lahiri weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1599,7 +1599,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8511,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-3.jpg",
     "description": "In \"Tomb of Sand: Illustrated Edition\", Salman Rushdie weaves an immersive world filled with emotional resonance and richly drawn characters. A captivating reading experience celebrated by book lovers worldwide."
   },
   {
@@ -1612,7 +1612,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8737,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-4.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Amitav Ghosh. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Ghachar Ghochar: Chronicles\"."
   },
   {
@@ -1625,7 +1625,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8963,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/fiction/fiction-5.jpg",
     "description": "A magnificent story crafted with breathtaking literary mastery by Aravind Adiga. Explore complex human relationships, untold journeys, and an unforgettable narrative woven into the pages of \"Cobalt Blue: Volume II\"."
   },
   {
@@ -1638,7 +1638,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1714,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Clean Code\", Robert C. Martin breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1651,7 +1651,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1940,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Martin Fowler shares deep insights and actionable real-world methodologies in \"The Pragmatic Programmer\"."
   },
   {
@@ -1664,7 +1664,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2166,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Andrew Hunt shares deep insights and actionable real-world methodologies in \"Designing Data-Intensive Applications\"."
   },
   {
@@ -1677,7 +1677,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2392,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "Master modern software craft and system architecture with \"Code Complete\". Written by industry authority David Thomas, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1690,7 +1690,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2618,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Structure and Interpretation of Computer Programs\". Written by industry authority Donald Knuth, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1703,7 +1703,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2844,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"Design Patterns: Elements of Reusable Object-Oriented Software\". Written by industry authority Alex Xu, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1716,7 +1716,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3070,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Introduction to Algorithms\", Aurélien Géron breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1729,7 +1729,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3296,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "Master modern software craft and system architecture with \"You Don't Know JS Yet\". Written by industry authority Ian Goodfellow, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1742,7 +1742,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3522,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Christopher Bishop shares deep insights and actionable real-world methodologies in \"JavaScript: The Good Parts\"."
   },
   {
@@ -1755,7 +1755,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3748,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"Refactoring: Improving the Design of Existing Code\". Written by industry authority Eric Evans, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1768,7 +1768,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3974,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Gene Kim shares deep insights and actionable real-world methodologies in \"Building Microservices\"."
   },
   {
@@ -1781,7 +1781,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4200,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Continuous Delivery\", Jez Humble breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1794,7 +1794,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4426,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"The Phoenix Project\". Written by industry authority Brendan Eich, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1807,7 +1807,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4652,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"Accelerate: The Science of Lean Software and DevOps\". Written by industry authority Douglas Crockford, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1820,7 +1820,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4878,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Site Reliability Engineering\". Written by industry authority Kyle Simpson, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1833,7 +1833,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5104,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Grokking Algorithms\", Marijn Haverbeke breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1846,7 +1846,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5330,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Al Sweigart shares deep insights and actionable real-world methodologies in \"Computer Networking: A Top-Down Approach\"."
   },
   {
@@ -1859,7 +1859,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5556,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Modern Operating Systems\", Luciano Ramalho breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1872,7 +1872,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5782,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Clean Architecture\", Jon Skeet breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1885,7 +1885,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6008,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Domain-Driven Design: Tackling Complexity in the Heart of Software\", Steve McConnell breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1898,7 +1898,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6234,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Kent Beck shares deep insights and actionable real-world methodologies in \"Cracking the Coding Interview\"."
   },
   {
@@ -1911,7 +1911,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6460,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"System Design Interview – An Insider's Guide\". Written by industry authority Michael Feathers, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1924,7 +1924,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6686,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow\". Written by industry authority Addy Osmani, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -1937,7 +1937,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6912,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Deep Learning\", Sandi Metz breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1950,7 +1950,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7138,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Pattern Recognition and Machine Learning\", Sam Newman breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1963,7 +1963,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7364,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Alex Petrov shares deep insights and actionable real-world methodologies in \"Python Crash Course\"."
   },
   {
@@ -1976,7 +1976,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7590,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Eloquent JavaScript\", Martin Kleppmann breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -1989,7 +1989,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7816,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Erich Gamma shares deep insights and actionable real-world methodologies in \"Automate the Boring Stuff with Python\"."
   },
   {
@@ -2002,7 +2002,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8042,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Fluent Python\". Written by industry authority Richard Helm, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2015,7 +2015,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8268,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"C# in Depth\". Written by industry authority Ralph Johnson, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2028,7 +2028,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8494,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Working Effectively with Legacy Code\", John Ousterhout breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2041,7 +2041,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8720,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"A Philosophy of Software Design\", Cay S. Horstmann breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2054,7 +2054,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8946,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "Master modern software craft and system architecture with \"The Linux Programming Interface\". Written by industry authority Brian W. Kernighan, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2067,7 +2067,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9172,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Dennis M. Ritchie shares deep insights and actionable real-world methodologies in \"Database Internals: A Deep Dive\"."
   },
   {
@@ -2080,7 +2080,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 9398,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Kubernetes in Action\", Bjarne Stroustrup breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2093,7 +2093,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9624,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "Master modern software craft and system architecture with \"Docker Deep Dive\". Written by industry authority Scott Meyers, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2106,7 +2106,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 200,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Learning SQL\", Joshua Bloch breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2119,7 +2119,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 426,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Venkat Subramaniam shares deep insights and actionable real-world methodologies in \"High Performance Browser Networking\"."
   },
   {
@@ -2132,7 +2132,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 652,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Kavitha Rangan shares deep insights and actionable real-world methodologies in \"Web Scalability for Startup Engineers\"."
   },
   {
@@ -2145,7 +2145,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 878,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Prateek Narang shares deep insights and actionable real-world methodologies in \"The Art of Computer Programming\"."
   },
   {
@@ -2158,7 +2158,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1104,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "Master modern software craft and system architecture with \"Compilers: Principles, Techniques, and Tools\". Written by industry authority Robert C. Martin, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2171,7 +2171,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1330,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"The C Programming Language\". Written by industry authority Martin Fowler, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2184,7 +2184,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1556,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Andrew Hunt shares deep insights and actionable real-world methodologies in \"The C++ Programming Language\"."
   },
   {
@@ -2197,7 +2197,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1782,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. David Thomas shares deep insights and actionable real-world methodologies in \"Effective Java\"."
   },
   {
@@ -2210,7 +2210,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2008,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Donald Knuth shares deep insights and actionable real-world methodologies in \"Effective TypeScript\"."
   },
   {
@@ -2223,7 +2223,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2234,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Microservices Patterns\", Alex Xu breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2236,7 +2236,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2460,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Staff Engineer: Leadership Beyond the Management Track\". Written by industry authority Aurélien Géron, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2249,7 +2249,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2686,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Ian Goodfellow shares deep insights and actionable real-world methodologies in \"An Elegant Puzzle: Systems of Engineering Management\"."
   },
   {
@@ -2262,7 +2262,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2912,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "Master modern software craft and system architecture with \"Release It! Design and Deploy Production-Ready Software\". Written by industry authority Christopher Bishop, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2275,7 +2275,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3138,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"Grokking Simplicity: Taming Complex Systems with Functional Thinking\". Written by industry authority Eric Evans, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2288,7 +2288,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3364,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Building Event-Driven Microservices\", Gene Kim breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2301,7 +2301,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3590,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Jez Humble shares deep insights and actionable real-world methodologies in \"Cloud Native Patterns\"."
   },
   {
@@ -2314,7 +2314,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3816,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Fundamentals of Software Architecture\". Written by industry authority Brendan Eich, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2327,7 +2327,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4042,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"Software Engineering at Google\". Written by industry authority Douglas Crockford, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2340,7 +2340,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4268,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Clean Craftsmanship\". Written by industry authority Kyle Simpson, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2353,7 +2353,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4494,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "Master modern software craft and system architecture with \"Tidy First? A Personal Guide to Software Design\". Written by industry authority Marijn Haverbeke, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2366,7 +2366,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4720,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Network Programmability and Automation\", Al Sweigart breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2379,7 +2379,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4946,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"Practical Statistics for Data Scientists\". Written by industry authority Luciano Ramalho, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2392,7 +2392,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5172,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "Master modern software craft and system architecture with \"Deep Learning with Python\". Written by industry authority Jon Skeet, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2405,7 +2405,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5398,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "Master modern software craft and system architecture with \"Generative AI in Practice\". Written by industry authority Steve McConnell, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2418,7 +2418,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5624,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Prompt Engineering for Generative AI\", Kent Beck breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2431,7 +2431,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5850,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"Building LLM Apps with LangChain\". Written by industry authority Michael Feathers, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2444,7 +2444,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6076,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Clean Code: Handbook\". Written by industry authority Ralph Johnson, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2457,7 +2457,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6302,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. John Ousterhout shares deep insights and actionable real-world methodologies in \"The Pragmatic Programmer: Special Edition\"."
   },
   {
@@ -2470,7 +2470,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6528,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "Master modern software craft and system architecture with \"Designing Data-Intensive Applications: The Journey\". Written by industry authority Cay S. Horstmann, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2483,7 +2483,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6754,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Brian W. Kernighan shares deep insights and actionable real-world methodologies in \"Code Complete: Field Guide\"."
   },
   {
@@ -2496,7 +2496,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6980,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Structure and Interpretation of Computer Programs: Reflections\", Dennis M. Ritchie breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2509,7 +2509,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7206,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Design Patterns: Elements of Reusable Object-Oriented Software: Expanded Edition\", Bjarne Stroustrup breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2522,7 +2522,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7432,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Introduction to Algorithms: Masterclass\", Scott Meyers breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2535,7 +2535,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7658,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"You Don't Know JS Yet: Handbook\". Written by industry authority Joshua Bloch, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2548,7 +2548,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7884,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"JavaScript: The Good Parts: Special Edition\". Written by industry authority Venkat Subramaniam, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2561,7 +2561,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8110,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "Master modern software craft and system architecture with \"Refactoring: Improving the Design of Existing Code: The Journey\". Written by industry authority Kavitha Rangan, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2574,7 +2574,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8336,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Building Microservices: Field Guide\", Prateek Narang breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2587,7 +2587,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8562,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"Continuous Delivery: Reflections\". Written by industry authority Robert C. Martin, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2600,7 +2600,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8788,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"The Phoenix Project: Expanded Edition\", Martin Fowler breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2613,7 +2613,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9014,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Andrew Hunt shares deep insights and actionable real-world methodologies in \"Accelerate: The Science of Lean Software and DevOps: Masterclass\"."
   },
   {
@@ -2626,7 +2626,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9240,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. David Thomas shares deep insights and actionable real-world methodologies in \"Site Reliability Engineering: Handbook\"."
   },
   {
@@ -2639,7 +2639,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 9466,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Grokking Algorithms: Special Edition\", Donald Knuth breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2652,7 +2652,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9692,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Computer Networking: A Top-Down Approach: The Journey\". Written by industry authority Alex Xu, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2665,7 +2665,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 268,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Aurélien Géron shares deep insights and actionable real-world methodologies in \"Modern Operating Systems: Field Guide\"."
   },
   {
@@ -2678,7 +2678,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 494,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Ian Goodfellow shares deep insights and actionable real-world methodologies in \"Clean Architecture: Reflections\"."
   },
   {
@@ -2691,7 +2691,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 720,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Domain-Driven Design: Tackling Complexity in the Heart of Software: Expanded Edition\", Christopher Bishop breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2704,7 +2704,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 946,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Eric Evans shares deep insights and actionable real-world methodologies in \"Cracking the Coding Interview: Masterclass\"."
   },
   {
@@ -2717,7 +2717,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1172,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "Master modern software craft and system architecture with \"System Design Interview – An Insider's Guide: Handbook\". Written by industry authority Gene Kim, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2730,7 +2730,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1398,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Special Edition\". Written by industry authority Jez Humble, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2743,7 +2743,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1624,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Brendan Eich shares deep insights and actionable real-world methodologies in \"Deep Learning: The Journey\"."
   },
   {
@@ -2756,7 +2756,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1850,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Pattern Recognition and Machine Learning: Field Guide\", Douglas Crockford breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2769,7 +2769,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2076,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Kyle Simpson shares deep insights and actionable real-world methodologies in \"Python Crash Course: Reflections\"."
   },
   {
@@ -2782,7 +2782,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2302,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Eloquent JavaScript: Expanded Edition\", Marijn Haverbeke breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2795,7 +2795,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2528,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Automate the Boring Stuff with Python: Masterclass\", Al Sweigart breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2808,7 +2808,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2754,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Luciano Ramalho shares deep insights and actionable real-world methodologies in \"Fluent Python: Handbook\"."
   },
   {
@@ -2821,7 +2821,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2980,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "Master modern software craft and system architecture with \"C# in Depth: Special Edition\". Written by industry authority Jon Skeet, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2834,7 +2834,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3206,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Working Effectively with Legacy Code: The Journey\". Written by industry authority Steve McConnell, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2847,7 +2847,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3432,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Kent Beck shares deep insights and actionable real-world methodologies in \"A Philosophy of Software Design: Field Guide\"."
   },
   {
@@ -2860,7 +2860,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3658,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"The Linux Programming Interface: Reflections\". Written by industry authority Michael Feathers, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2873,7 +2873,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3884,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Addy Osmani shares deep insights and actionable real-world methodologies in \"Database Internals: A Deep Dive: Expanded Edition\"."
   },
   {
@@ -2886,7 +2886,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4110,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Sandi Metz shares deep insights and actionable real-world methodologies in \"Kubernetes in Action: Masterclass\"."
   },
   {
@@ -2899,7 +2899,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4336,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"Docker Deep Dive: Handbook\". Written by industry authority Sam Newman, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2912,7 +2912,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4562,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Learning SQL: Special Edition\", Alex Petrov breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2925,7 +2925,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4788,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Martin Kleppmann shares deep insights and actionable real-world methodologies in \"High Performance Browser Networking: The Journey\"."
   },
   {
@@ -2938,7 +2938,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5014,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Web Scalability for Startup Engineers: Field Guide\", Erich Gamma breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2951,7 +2951,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5240,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Richard Helm shares deep insights and actionable real-world methodologies in \"The Art of Computer Programming: Reflections\"."
   },
   {
@@ -2964,7 +2964,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5466,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "Master modern software craft and system architecture with \"Compilers: Principles, Techniques, and Tools: Expanded Edition\". Written by industry authority Ralph Johnson, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -2977,7 +2977,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5692,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"The C Programming Language: Masterclass\", John Ousterhout breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -2990,7 +2990,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5918,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "Master modern software craft and system architecture with \"The C++ Programming Language: Handbook\". Written by industry authority Cay S. Horstmann, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3003,7 +3003,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6144,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "Master modern software craft and system architecture with \"Effective Java: Special Edition\". Written by industry authority Brian W. Kernighan, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3016,7 +3016,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6370,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "Master modern software craft and system architecture with \"Effective TypeScript: The Journey\". Written by industry authority Dennis M. Ritchie, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3029,7 +3029,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6596,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Microservices Patterns: Field Guide\", Bjarne Stroustrup breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -3042,7 +3042,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6822,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Staff Engineer: Leadership Beyond the Management Track: Reflections\". Written by industry authority Scott Meyers, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3055,7 +3055,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7048,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "Master modern software craft and system architecture with \"An Elegant Puzzle: Systems of Engineering Management: Expanded Edition\". Written by industry authority Joshua Bloch, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3068,7 +3068,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7274,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Venkat Subramaniam shares deep insights and actionable real-world methodologies in \"Release It! Design and Deploy Production-Ready Software: Masterclass\"."
   },
   {
@@ -3081,7 +3081,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7500,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "Master modern software craft and system architecture with \"Grokking Simplicity: Taming Complex Systems with Functional Thinking: Handbook\". Written by industry authority Kavitha Rangan, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3094,7 +3094,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7726,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Prateek Narang shares deep insights and actionable real-world methodologies in \"Building Event-Driven Microservices: Special Edition\"."
   },
   {
@@ -3107,7 +3107,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7952,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Cloud Native Patterns: The Journey\", Robert C. Martin breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -3120,7 +3120,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8178,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "Master modern software craft and system architecture with \"Fundamentals of Software Architecture: Field Guide\". Written by industry authority Martin Fowler, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3133,7 +3133,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8404,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Andrew Hunt shares deep insights and actionable real-world methodologies in \"Software Engineering at Google: Reflections\"."
   },
   {
@@ -3146,7 +3146,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8630,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Clean Craftsmanship: Expanded Edition\". Written by industry authority David Thomas, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3159,7 +3159,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8856,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-6.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Tidy First? A Personal Guide to Software Design: Masterclass\", Donald Knuth breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -3172,7 +3172,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9082,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-7.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Alex Xu shares deep insights and actionable real-world methodologies in \"Network Programmability and Automation: Handbook\"."
   },
   {
@@ -3185,7 +3185,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9308,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-8.jpg",
     "description": "Master modern software craft and system architecture with \"Practical Statistics for Data Scientists: Special Edition\". Written by industry authority Aurélien Géron, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3198,7 +3198,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9534,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-1.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Deep Learning with Python: The Journey\", Ian Goodfellow breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -3211,7 +3211,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9760,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-2.jpg",
     "description": "A timeless guide to writing resilient, clean, and scalable systems. Christopher Bishop shares deep insights and actionable real-world methodologies in \"Generative AI in Practice: Field Guide\"."
   },
   {
@@ -3224,7 +3224,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 336,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-3.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Prompt Engineering for Generative AI: Reflections\", Eric Evans breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -3237,7 +3237,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 562,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-4.jpg",
     "description": "An indispensable resource for software engineers, developers, and architects. In \"Building LLM Apps with LangChain: Expanded Edition\", Gene Kim breaks down complex engineering concepts into pragmatic, production-grade insights."
   },
   {
@@ -3250,7 +3250,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 788,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/technology/technology-5.jpg",
     "description": "Master modern software craft and system architecture with \"Clean Code: Masterclass\". Written by industry authority Jez Humble, this book provides battle-tested principles and practical patterns."
   },
   {
@@ -3263,7 +3263,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3189,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. James Clear delivers clarity, purpose, and actionable daily frameworks in \"Atomic Habits\"."
   },
   {
@@ -3276,7 +3276,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3415,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Stephen R. Covey delivers clarity, purpose, and actionable daily frameworks in \"The 7 Habits of Highly Effective People\"."
   },
   {
@@ -3289,7 +3289,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3641,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Deep Work\" by Cal Newport offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3302,7 +3302,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3867,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Mindset: The New Psychology of Success\", Carol S. Dweck presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3315,7 +3315,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4093,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Think and Grow Rich\", Napoleon Hill presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3328,7 +3328,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4319,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Dale Carnegie delivers clarity, purpose, and actionable daily frameworks in \"How to Win Friends and Influence People\"."
   },
   {
@@ -3341,7 +3341,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4545,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Subtle Art of Not Giving a F*ck\", Mark Manson presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3354,7 +3354,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4771,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Mountain Is You\", Brianna Wiest presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3367,7 +3367,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4997,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Power of Now\", Eckhart Tolle presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3380,7 +3380,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5223,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Viktor E. Frankl delivers clarity, purpose, and actionable daily frameworks in \"Man's Search for Meaning\"."
   },
   {
@@ -3393,7 +3393,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5449,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Can't Hurt Me\", David Goggins presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3406,7 +3406,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5675,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Essentialism: The Disciplined Pursuit of Less\", Greg McKeown presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3419,7 +3419,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5901,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Show Your Work!\", Austin Kleon presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3432,7 +3432,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6127,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Ryan Holiday delivers clarity, purpose, and actionable daily frameworks in \"Steal Like an Artist\"."
   },
   {
@@ -3445,7 +3445,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6353,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Digital Minimalism\", Marcus Aurelius presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3458,7 +3458,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6579,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Make Time: How to Focus on What Matters Every Day\", Angela Duckworth presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3471,7 +3471,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6805,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Courage to Be Disliked\", Jim Kwik presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3484,7 +3484,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7031,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Ego is the Enemy\" by Robin Sharma offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3497,7 +3497,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7257,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Obstacle is the Way\", Mihaly Csikszentmihalyi presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3510,7 +3510,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7483,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Daily Stoic\" by Brené Brown offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3523,7 +3523,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7709,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Stillness is the Key\", Daniel H. Pink presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3536,7 +3536,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7935,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Meditations\" by Susan Cain offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3549,7 +3549,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8161,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Simon Sinek delivers clarity, purpose, and actionable daily frameworks in \"Grit: The Power of Passion and Perseverance\"."
   },
   {
@@ -3562,7 +3562,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8387,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Limitless: Upgrade Your Brain\" by Morgan Housel offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3575,7 +3575,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8613,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The 5 AM Club\" by Darren Hardy offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3588,7 +3588,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8839,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. BJ Fogg delivers clarity, purpose, and actionable daily frameworks in \"Flow: The Psychology of Optimal Experience\"."
   },
   {
@@ -3601,7 +3601,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9065,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Don Miguel Ruiz delivers clarity, purpose, and actionable daily frameworks in \"Daring Greatly\"."
   },
   {
@@ -3614,7 +3614,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9291,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Quiet: The Power of Introverts\" by Gaur Gopal Das offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3627,7 +3627,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9517,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Start with Why\" by Jay Shetty offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3640,7 +3640,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9743,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Psychology of Money\", Radhakrishnan Pillai presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3653,7 +3653,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 319,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Sadhguru delivers clarity, purpose, and actionable daily frameworks in \"The Compound Effect\"."
   },
   {
@@ -3666,7 +3666,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 545,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Tiny Habits\", Swami Vivekananda presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3679,7 +3679,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 771,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Four Agreements\" by J. Krishnamurti offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3692,7 +3692,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 997,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Life's Amazing Secrets\", Osho presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3705,7 +3705,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1223,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Think Like a Monk\" by Deepak Chopra offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3718,7 +3718,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1449,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. James Clear delivers clarity, purpose, and actionable daily frameworks in \"Karma: A Yogi's Guide to Crafting Your Destiny\"."
   },
   {
@@ -3731,7 +3731,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1675,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Chanakya Neeti\" by Stephen R. Covey offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3744,7 +3744,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1901,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Cal Newport delivers clarity, purpose, and actionable daily frameworks in \"Rethinking Positive Thinking\"."
   },
   {
@@ -3757,7 +3757,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2127,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Feel the Fear and Do It Anyway\" by Carol S. Dweck offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3770,7 +3770,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2353,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Awaken the Giant Within\" by Napoleon Hill offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3783,7 +3783,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2579,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Master Your Emotions\" by Dale Carnegie offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3796,7 +3796,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2805,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Psycho-Cybernetics\" by Mark Manson offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3809,7 +3809,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3031,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Miracle Morning\", Brianna Wiest presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3822,7 +3822,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3257,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Hyperfocus\", Eckhart Tolle presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3835,7 +3835,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3483,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The War of Art\" by Viktor E. Frankl offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3848,7 +3848,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3709,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Turning Pro\" by David Goggins offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3861,7 +3861,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3935,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Greg McKeown delivers clarity, purpose, and actionable daily frameworks in \"Eat That Frog!\"."
   },
   {
@@ -3874,7 +3874,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4161,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Power of Habit\", Austin Kleon presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3887,7 +3887,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4387,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Ryan Holiday delivers clarity, purpose, and actionable daily frameworks in \"Indistractable\"."
   },
   {
@@ -3900,7 +3900,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4613,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Marcus Aurelius delivers clarity, purpose, and actionable daily frameworks in \"Do It Today\"."
   },
   {
@@ -3913,7 +3913,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4839,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Goodbye, Things: On Minimalist Living\", Angela Duckworth presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3926,7 +3926,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5065,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Jim Kwik delivers clarity, purpose, and actionable daily frameworks in \"Ikigai: The Japanese Secret to a Long and Happy Life\"."
   },
   {
@@ -3939,7 +3939,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5291,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Kaizen: The Japanese Method for Transforming Habits\", Robin Sharma presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3952,7 +3952,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5517,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Wabi Sabi: Japanese Wisdom for a Perfectly Imperfect Life\" by Mihaly Csikszentmihalyi offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3965,7 +3965,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5743,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Kintsugi: Finding Strength in Imperfection\" by Brené Brown offers profound wisdom for personal and professional excellence."
   },
   {
@@ -3978,7 +3978,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5969,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Art of Living\", Daniel H. Pink presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -3991,7 +3991,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6195,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Inner Engineering: A Yogi's Guide to Joy\", Susan Cain presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4004,7 +4004,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6421,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Simon Sinek delivers clarity, purpose, and actionable daily frameworks in \"Freedom from the Known\"."
   },
   {
@@ -4017,7 +4017,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6647,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Morgan Housel delivers clarity, purpose, and actionable daily frameworks in \"Raja Yoga\"."
   },
   {
@@ -4030,7 +4030,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6873,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Secret of Karma\" by Darren Hardy offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4043,7 +4043,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7099,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Atomic Habits: The Complete Guide\", J. Krishnamurti presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4056,7 +4056,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7325,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The 7 Habits of Highly Effective People: Legacy Edition\", Osho presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4069,7 +4069,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7551,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Deepak Chopra delivers clarity, purpose, and actionable daily frameworks in \"Deep Work: The Definitive Collection\"."
   },
   {
@@ -4082,7 +4082,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7777,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Mindset: The New Psychology of Success: Illustrated Edition\", James Clear presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4095,7 +4095,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8003,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Think and Grow Rich: Chronicles\", Stephen R. Covey presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4108,7 +4108,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8229,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"How to Win Friends and Influence People: Volume II\", Cal Newport presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4121,7 +4121,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8455,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Subtle Art of Not Giving a F*ck: Annotated Edition\" by Carol S. Dweck offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4134,7 +4134,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8681,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Napoleon Hill delivers clarity, purpose, and actionable daily frameworks in \"The Mountain Is You: The Complete Guide\"."
   },
   {
@@ -4147,7 +4147,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8907,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Power of Now: Legacy Edition\" by Dale Carnegie offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4160,7 +4160,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9133,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Man's Search for Meaning: The Definitive Collection\" by Mark Manson offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4173,7 +4173,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 9359,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Can't Hurt Me: Illustrated Edition\", Brianna Wiest presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4186,7 +4186,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9585,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Eckhart Tolle delivers clarity, purpose, and actionable daily frameworks in \"Essentialism: The Disciplined Pursuit of Less: Chronicles\"."
   },
   {
@@ -4199,7 +4199,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 161,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Show Your Work!: Volume II\" by Viktor E. Frankl offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4212,7 +4212,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 387,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. David Goggins delivers clarity, purpose, and actionable daily frameworks in \"Steal Like an Artist: Annotated Edition\"."
   },
   {
@@ -4225,7 +4225,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 613,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Greg McKeown delivers clarity, purpose, and actionable daily frameworks in \"Digital Minimalism: The Complete Guide\"."
   },
   {
@@ -4238,7 +4238,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 839,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Austin Kleon delivers clarity, purpose, and actionable daily frameworks in \"Make Time: How to Focus on What Matters Every Day: Legacy Edition\"."
   },
   {
@@ -4251,7 +4251,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1065,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Ryan Holiday delivers clarity, purpose, and actionable daily frameworks in \"The Courage to Be Disliked: The Definitive Collection\"."
   },
   {
@@ -4264,7 +4264,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1291,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Ego is the Enemy: Illustrated Edition\" by Marcus Aurelius offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4277,7 +4277,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1517,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Obstacle is the Way: Chronicles\" by Angela Duckworth offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4290,7 +4290,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1743,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Daily Stoic: Volume II\", Jim Kwik presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4303,7 +4303,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1969,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Stillness is the Key: Annotated Edition\", Robin Sharma presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4316,7 +4316,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2195,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Mihaly Csikszentmihalyi delivers clarity, purpose, and actionable daily frameworks in \"Meditations: The Complete Guide\"."
   },
   {
@@ -4329,7 +4329,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2421,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Grit: The Power of Passion and Perseverance: Legacy Edition\", Brené Brown presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4342,7 +4342,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2647,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Limitless: Upgrade Your Brain: The Definitive Collection\", Daniel H. Pink presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4355,7 +4355,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2873,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The 5 AM Club: Illustrated Edition\", Susan Cain presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4368,7 +4368,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3099,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Flow: The Psychology of Optimal Experience: Chronicles\" by Simon Sinek offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4381,7 +4381,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3325,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Daring Greatly: Volume II\", Morgan Housel presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4394,7 +4394,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3551,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Quiet: The Power of Introverts: Annotated Edition\" by Darren Hardy offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4407,7 +4407,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3777,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Start with Why: The Complete Guide\", BJ Fogg presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4420,7 +4420,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4003,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Psychology of Money: Legacy Edition\", Don Miguel Ruiz presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4433,7 +4433,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4229,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Gaur Gopal Das delivers clarity, purpose, and actionable daily frameworks in \"The Compound Effect: The Definitive Collection\"."
   },
   {
@@ -4446,7 +4446,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4455,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Tiny Habits: Illustrated Edition\" by Jay Shetty offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4459,7 +4459,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4681,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Radhakrishnan Pillai delivers clarity, purpose, and actionable daily frameworks in \"The Four Agreements: Chronicles\"."
   },
   {
@@ -4472,7 +4472,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4907,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Life's Amazing Secrets: Volume II\" by Sadhguru offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4485,7 +4485,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5133,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Think Like a Monk: Annotated Edition\" by Swami Vivekananda offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4498,7 +4498,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5359,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Karma: A Yogi's Guide to Crafting Your Destiny: The Complete Guide\", J. Krishnamurti presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4511,7 +4511,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5585,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Osho delivers clarity, purpose, and actionable daily frameworks in \"Chanakya Neeti: Legacy Edition\"."
   },
   {
@@ -4524,7 +4524,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5811,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Rethinking Positive Thinking: The Definitive Collection\", Deepak Chopra presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4537,7 +4537,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6037,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Feel the Fear and Do It Anyway: Illustrated Edition\" by James Clear offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4550,7 +4550,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6263,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Awaken the Giant Within: Chronicles\" by Stephen R. Covey offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4563,7 +4563,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6489,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Cal Newport delivers clarity, purpose, and actionable daily frameworks in \"Master Your Emotions: Volume II\"."
   },
   {
@@ -4576,7 +4576,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6715,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Carol S. Dweck delivers clarity, purpose, and actionable daily frameworks in \"Psycho-Cybernetics: Annotated Edition\"."
   },
   {
@@ -4589,7 +4589,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6941,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Napoleon Hill delivers clarity, purpose, and actionable daily frameworks in \"The Miracle Morning: The Complete Guide\"."
   },
   {
@@ -4602,7 +4602,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7167,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Hyperfocus: Legacy Edition\" by Dale Carnegie offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4615,7 +4615,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7393,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The War of Art: The Definitive Collection\", Mark Manson presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4628,7 +4628,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7619,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Turning Pro: Illustrated Edition\" by Brianna Wiest offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4641,7 +4641,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7845,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Eat That Frog!: Chronicles\" by Eckhart Tolle offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4654,7 +4654,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8071,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The Power of Habit: Volume II\" by Viktor E. Frankl offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4667,7 +4667,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8297,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. David Goggins delivers clarity, purpose, and actionable daily frameworks in \"Indistractable: Annotated Edition\"."
   },
   {
@@ -4680,7 +4680,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8523,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Do It Today: The Complete Guide\" by Greg McKeown offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4693,7 +4693,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8749,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Austin Kleon delivers clarity, purpose, and actionable daily frameworks in \"Goodbye, Things: On Minimalist Living: Legacy Edition\"."
   },
   {
@@ -4706,7 +4706,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8975,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Ikigai: The Japanese Secret to a Long and Happy Life: The Definitive Collection\" by Ryan Holiday offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4719,7 +4719,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9201,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Kaizen: The Japanese Method for Transforming Habits: Illustrated Edition\", Marcus Aurelius presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4732,7 +4732,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 9427,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Angela Duckworth delivers clarity, purpose, and actionable daily frameworks in \"Wabi Sabi: Japanese Wisdom for a Perfectly Imperfect Life: Chronicles\"."
   },
   {
@@ -4745,7 +4745,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9653,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Kintsugi: Finding Strength in Imperfection: Volume II\", Jim Kwik presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4758,7 +4758,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 229,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Art of Living: Annotated Edition\", Robin Sharma presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4771,7 +4771,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 455,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Inner Engineering: A Yogi's Guide to Joy: The Complete Guide\" by Mihaly Csikszentmihalyi offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4784,7 +4784,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 681,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-6.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Freedom from the Known: Legacy Edition\", Brené Brown presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4797,7 +4797,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 907,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-7.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Raja Yoga: The Definitive Collection\" by Daniel H. Pink offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4810,7 +4810,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1133,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-8.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"The Secret of Karma: Illustrated Edition\", Susan Cain presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4823,7 +4823,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1359,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-1.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Simon Sinek delivers clarity, purpose, and actionable daily frameworks in \"Atomic Habits: Chronicles\"."
   },
   {
@@ -4836,7 +4836,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1585,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-2.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"The 7 Habits of Highly Effective People: Volume II\" by Morgan Housel offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4849,7 +4849,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1811,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-3.jpg",
     "description": "Discover how small deliberate actions create exponential life improvements. \"Deep Work: Annotated Edition\" by Darren Hardy offers profound wisdom for personal and professional excellence."
   },
   {
@@ -4862,7 +4862,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2037,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1508672019048-805b876b67e2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-4.jpg",
     "description": "Transform your mindset, sharpen your focus, and achieve lasting growth. In \"Mindset: The New Psychology of Success: The Complete Guide\", BJ Fogg presents a practical roadmap backed by behavioral science and real-world results."
   },
   {
@@ -4875,7 +4875,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2263,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/self-development/self-development-5.jpg",
     "description": "Break through self-limiting beliefs and design the life you envision. Don Miguel Ruiz delivers clarity, purpose, and actionable daily frameworks in \"Think and Grow Rich: Legacy Edition\"."
   },
   {
@@ -4888,7 +4888,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4664,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Eric Ries reveals crucial frameworks in \"The Lean Startup\"."
   },
   {
@@ -4901,7 +4901,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4890,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Peter Thiel reveals crucial frameworks in \"Zero to One: Notes on Startups\"."
   },
   {
@@ -4914,7 +4914,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5116,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"Good to Great\" offers deep strategic perspective. Jim Collins breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -4927,7 +4927,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5342,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Josh Kaufman reveals crucial frameworks in \"The Personal MBA\"."
   },
   {
@@ -4940,7 +4940,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5568,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Thinking, Fast and Slow\" offers deep strategic perspective. Daniel Kahneman breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -4953,7 +4953,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5794,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "From ideation to market dominance, \"The Hard Thing About Hard Things\" offers deep strategic perspective. Ben Horowitz breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -4966,7 +4966,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6020,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Clayton M. Christensen reveals crucial frameworks in \"The Innovator's Dilemma\"."
   },
   {
@@ -4979,7 +4979,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6246,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. John Doerr reveals crucial frameworks in \"Measure What Matters: OKRs\"."
   },
   {
@@ -4992,7 +4992,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6472,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Jason Fried reveals crucial frameworks in \"Rework\"."
   },
   {
@@ -5005,7 +5005,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6698,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. David Heinemeier Hansson reveals crucial frameworks in \"Principles: Life and Work\"."
   },
   {
@@ -5018,7 +5018,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6924,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"Shoe Dog: A Memoir by the Creator of Nike\" offers deep strategic perspective. Ray Dalio breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5031,7 +5031,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7150,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "From ideation to market dominance, \"Blue Ocean Strategy\" offers deep strategic perspective. Phil Knight breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5044,7 +5044,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7376,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Hooked: How to Build Habit-Forming Products\" offers deep strategic perspective. W. Chan Kim breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5057,7 +5057,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7602,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Renée Mauborgne reveals crucial frameworks in \"High Output Management\"."
   },
   {
@@ -5070,7 +5070,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7828,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Nir Eyal reveals crucial frameworks in \"Crossing the Chasm\"."
   },
   {
@@ -5083,7 +5083,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8054,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies\" by Andrew S. Grove distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5096,7 +5096,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8280,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Delivering Happiness\" by Geoffrey A. Moore distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5109,7 +5109,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8506,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "From ideation to market dominance, \"The E-Myth Revisited\" offers deep strategic perspective. Reid Hoffman breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5122,7 +5122,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8732,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Tony Hsieh reveals crucial frameworks in \"Never Split the Difference\"."
   },
   {
@@ -5135,7 +5135,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8958,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "From ideation to market dominance, \"Thinking in Bets\" offers deep strategic perspective. Michael E. Gerber breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5148,7 +5148,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9184,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Venture Deals\" by Chris Voss distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5161,7 +5161,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 9410,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"The Ride of a Lifetime\" by Annie Duke distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5174,7 +5174,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9636,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "From ideation to market dominance, \"Competitive Strategy\" offers deep strategic perspective. Brad Feld breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5187,7 +5187,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 212,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Robert Iger reveals crucial frameworks in \"Trillion Dollar Coach\"."
   },
   {
@@ -5200,7 +5200,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 438,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "From ideation to market dominance, \"Exponential Organizations\" offers deep strategic perspective. Michael E. Porter breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5213,7 +5213,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 664,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "From ideation to market dominance, \"Value Proposition Design\" offers deep strategic perspective. Bill Campbell breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5226,7 +5226,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 890,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Salim Ismail reveals crucial frameworks in \"Business Model Generation\"."
   },
   {
@@ -5239,7 +5239,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1116,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Traction: How Any Startup Can Achieve Explosive Customer Growth\" by Alexander Osterwalder distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5252,7 +5252,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1342,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Gabriel Weinberg reveals crucial frameworks in \"Lean Analytics\"."
   },
   {
@@ -5265,7 +5265,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1568,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Alistair Croll reveals crucial frameworks in \"No Rules Rules: Netflix and the Culture of Reinvention\"."
   },
   {
@@ -5278,7 +5278,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1794,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Reed Hastings reveals crucial frameworks in \"Radical Candor\"."
   },
   {
@@ -5291,7 +5291,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2020,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Kim Scott reveals crucial frameworks in \"Leaders Eat Last\"."
   },
   {
@@ -5304,7 +5304,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2246,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"The Culture Code\" by Jocko Willink distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5317,7 +5317,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2472,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Verne Harnish reveals crucial frameworks in \"Extreme Ownership\"."
   },
   {
@@ -5330,7 +5330,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2698,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"Scaling Up: Mastering the Rockefeller Habits\" offers deep strategic perspective. Gino Wickman breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5343,7 +5343,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2924,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "From ideation to market dominance, \"Traction: Get a Grip on Your Business\" offers deep strategic perspective. Raghuram Rajan breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5356,7 +5356,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3150,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Built to Sell\" offers deep strategic perspective. N.R. Narayana Murthy breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5369,7 +5369,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3376,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "From ideation to market dominance, \"The Mom Test\" offers deep strategic perspective. Ratan Tata breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5382,7 +5382,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3602,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Obviously Awesome\" by Subroto Bagchi distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5395,7 +5395,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3828,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Pawan Munjal reveals crucial frameworks in \"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days\"."
   },
   {
@@ -5408,7 +5408,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4054,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Eric Ries reveals crucial frameworks in \"Contagious: Why Things Catch On\"."
   },
   {
@@ -5421,7 +5421,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4280,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "From ideation to market dominance, \"Made to Stick\" offers deep strategic perspective. Peter Thiel breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5434,7 +5434,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4506,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"Positioning: The Battle for Your Mind\" offers deep strategic perspective. Jim Collins breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5447,7 +5447,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4732,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Building a StoryBrand\" by Josh Kaufman distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5460,7 +5460,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4958,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Play Bigger\" offers deep strategic perspective. Daniel Kahneman breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5473,7 +5473,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5184,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "From ideation to market dominance, \"Good Strategy Bad Strategy\" offers deep strategic perspective. Ben Horowitz breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5486,7 +5486,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5410,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "From ideation to market dominance, \"The Goal: A Process of Ongoing Improvement\" offers deep strategic perspective. Clayton M. Christensen breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5499,7 +5499,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5636,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. John Doerr reveals crucial frameworks in \"Fault Lines\"."
   },
   {
@@ -5512,7 +5512,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5862,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Jason Fried reveals crucial frameworks in \"A Better India: A Better World\"."
   },
   {
@@ -5525,7 +5525,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6088,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"The High Performance Entrepreneur\" by David Heinemeier Hansson distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5538,7 +5538,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6314,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"I Too Had a Dream\" offers deep strategic perspective. Ray Dalio breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5551,7 +5551,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6540,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Phil Knight reveals crucial frameworks in \"Stay Hungry Stay Foolish\"."
   },
   {
@@ -5564,7 +5564,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6766,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Connect the Dots\" offers deep strategic perspective. W. Chan Kim breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5577,7 +5577,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6992,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "From ideation to market dominance, \"The Habit of Winning\" offers deep strategic perspective. Renée Mauborgne breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5590,7 +5590,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7218,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Nir Eyal reveals crucial frameworks in \"The Tata Log\"."
   },
   {
@@ -5603,7 +5603,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7444,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"From Jugaad to Systematic Innovation\" by Andrew S. Grove distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5616,7 +5616,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7670,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"The Dhandho Investor\" by Geoffrey A. Moore distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5629,7 +5629,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7896,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Romancing the Balance Sheet\" by Reid Hoffman distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5642,7 +5642,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8122,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Bill Campbell reveals crucial frameworks in \"The Lean Startup: Masterclass\"."
   },
   {
@@ -5655,7 +5655,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8348,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Salim Ismail reveals crucial frameworks in \"Zero to One: Notes on Startups: Handbook\"."
   },
   {
@@ -5668,7 +5668,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8574,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Good to Great: Special Edition\" by Alexander Osterwalder distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5681,7 +5681,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8800,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Gabriel Weinberg reveals crucial frameworks in \"The Personal MBA: The Journey\"."
   },
   {
@@ -5694,7 +5694,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9026,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Alistair Croll reveals crucial frameworks in \"Thinking, Fast and Slow: Field Guide\"."
   },
   {
@@ -5707,7 +5707,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9252,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "From ideation to market dominance, \"The Hard Thing About Hard Things: Reflections\" offers deep strategic perspective. Reed Hastings breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5720,7 +5720,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 9478,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "From ideation to market dominance, \"The Innovator's Dilemma: Expanded Edition\" offers deep strategic perspective. Kim Scott breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5733,7 +5733,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9704,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "From ideation to market dominance, \"Measure What Matters: OKRs: Masterclass\" offers deep strategic perspective. Jocko Willink breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5746,7 +5746,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 280,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Rework: Handbook\" by Verne Harnish distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5759,7 +5759,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 506,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Principles: Life and Work: Special Edition\" by Gino Wickman distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5772,7 +5772,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 732,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Raghuram Rajan reveals crucial frameworks in \"Shoe Dog: A Memoir by the Creator of Nike: The Journey\"."
   },
   {
@@ -5785,7 +5785,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 958,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Blue Ocean Strategy: Field Guide\" by N.R. Narayana Murthy distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5798,7 +5798,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1184,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Ratan Tata reveals crucial frameworks in \"Hooked: How to Build Habit-Forming Products: Reflections\"."
   },
   {
@@ -5811,7 +5811,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1410,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "From ideation to market dominance, \"High Output Management: Expanded Edition\" offers deep strategic perspective. Subroto Bagchi breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5824,7 +5824,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1636,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Pawan Munjal reveals crucial frameworks in \"Crossing the Chasm: Masterclass\"."
   },
   {
@@ -5837,7 +5837,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1862,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Eric Ries reveals crucial frameworks in \"Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies: Handbook\"."
   },
   {
@@ -5850,7 +5850,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2088,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"Delivering Happiness: Special Edition\" offers deep strategic perspective. Peter Thiel breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5863,7 +5863,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2314,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Jim Collins reveals crucial frameworks in \"The E-Myth Revisited: The Journey\"."
   },
   {
@@ -5876,7 +5876,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2540,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Never Split the Difference: Field Guide\" by Josh Kaufman distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5889,7 +5889,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2766,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "From ideation to market dominance, \"Thinking in Bets: Reflections\" offers deep strategic perspective. Daniel Kahneman breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5902,7 +5902,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2992,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Ben Horowitz reveals crucial frameworks in \"Venture Deals: Expanded Edition\"."
   },
   {
@@ -5915,7 +5915,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3218,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Clayton M. Christensen reveals crucial frameworks in \"The Ride of a Lifetime: Masterclass\"."
   },
   {
@@ -5928,7 +5928,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3444,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "From ideation to market dominance, \"Competitive Strategy: Handbook\" offers deep strategic perspective. John Doerr breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5941,7 +5941,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3670,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Trillion Dollar Coach: Special Edition\" by Jason Fried distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5954,7 +5954,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3896,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"Exponential Organizations: The Journey\" offers deep strategic perspective. David Heinemeier Hansson breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -5967,7 +5967,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4122,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Ray Dalio reveals crucial frameworks in \"Value Proposition Design: Field Guide\"."
   },
   {
@@ -5980,7 +5980,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4348,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Business Model Generation: Reflections\" by Phil Knight distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -5993,7 +5993,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4574,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. W. Chan Kim reveals crucial frameworks in \"Traction: How Any Startup Can Achieve Explosive Customer Growth: Expanded Edition\"."
   },
   {
@@ -6006,7 +6006,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4800,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Lean Analytics: Masterclass\" by Renée Mauborgne distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6019,7 +6019,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5026,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "From ideation to market dominance, \"No Rules Rules: Netflix and the Culture of Reinvention: Handbook\" offers deep strategic perspective. Nir Eyal breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6032,7 +6032,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5252,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Andrew S. Grove reveals crucial frameworks in \"Radical Candor: Special Edition\"."
   },
   {
@@ -6045,7 +6045,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5478,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Leaders Eat Last: The Journey\" by Geoffrey A. Moore distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6058,7 +6058,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5704,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"The Culture Code: Field Guide\" offers deep strategic perspective. Reid Hoffman breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6071,7 +6071,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5930,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "From ideation to market dominance, \"Extreme Ownership: Reflections\" offers deep strategic perspective. Tony Hsieh breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6084,7 +6084,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6156,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Scaling Up: Mastering the Rockefeller Habits: Expanded Edition\" by Michael E. Gerber distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6097,7 +6097,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6382,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Chris Voss reveals crucial frameworks in \"Traction: Get a Grip on Your Business: Masterclass\"."
   },
   {
@@ -6110,7 +6110,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6608,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Annie Duke reveals crucial frameworks in \"Built to Sell: Handbook\"."
   },
   {
@@ -6123,7 +6123,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6834,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "From ideation to market dominance, \"The Mom Test: Special Edition\" offers deep strategic perspective. Brad Feld breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6136,7 +6136,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7060,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Robert Iger reveals crucial frameworks in \"Obviously Awesome: The Journey\"."
   },
   {
@@ -6149,7 +6149,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7286,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days: Field Guide\" by Michael E. Porter distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6162,7 +6162,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7512,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Bill Campbell reveals crucial frameworks in \"Contagious: Why Things Catch On: Reflections\"."
   },
   {
@@ -6175,7 +6175,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7738,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Salim Ismail reveals crucial frameworks in \"Made to Stick: Expanded Edition\"."
   },
   {
@@ -6188,7 +6188,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7964,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Positioning: The Battle for Your Mind: Masterclass\" offers deep strategic perspective. Alexander Osterwalder breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6201,7 +6201,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8190,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Building a StoryBrand: Handbook\" by Gabriel Weinberg distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6214,7 +6214,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8416,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "From ideation to market dominance, \"Play Bigger: Special Edition\" offers deep strategic perspective. Alistair Croll breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6227,7 +6227,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8642,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "From ideation to market dominance, \"Good Strategy Bad Strategy: The Journey\" offers deep strategic perspective. Reed Hastings breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6240,7 +6240,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8868,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Kim Scott reveals crucial frameworks in \"The Goal: A Process of Ongoing Improvement: Field Guide\"."
   },
   {
@@ -6253,7 +6253,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9094,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "From ideation to market dominance, \"Fault Lines: Reflections\" offers deep strategic perspective. Jocko Willink breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6266,7 +6266,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9320,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "From ideation to market dominance, \"A Better India: A Better World: Expanded Edition\" offers deep strategic perspective. Verne Harnish breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6279,7 +6279,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9546,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Gino Wickman reveals crucial frameworks in \"The High Performance Entrepreneur: Masterclass\"."
   },
   {
@@ -6292,7 +6292,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9772,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Raghuram Rajan reveals crucial frameworks in \"I Too Had a Dream: Handbook\"."
   },
   {
@@ -6305,7 +6305,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 348,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"Stay Hungry Stay Foolish: Special Edition\" by N.R. Narayana Murthy distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6318,7 +6318,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 574,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Ratan Tata reveals crucial frameworks in \"Connect the Dots: The Journey\"."
   },
   {
@@ -6331,7 +6331,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 800,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Subroto Bagchi reveals crucial frameworks in \"The Habit of Winning: Field Guide\"."
   },
   {
@@ -6344,7 +6344,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1026,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Pawan Munjal reveals crucial frameworks in \"The Tata Log: Reflections\"."
   },
   {
@@ -6357,7 +6357,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1252,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"From Jugaad to Systematic Innovation: Expanded Edition\" by Eric Ries distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6370,7 +6370,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1478,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Peter Thiel reveals crucial frameworks in \"The Dhandho Investor: Masterclass\"."
   },
   {
@@ -6383,7 +6383,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1704,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "From ideation to market dominance, \"Romancing the Balance Sheet: Handbook\" offers deep strategic perspective. Jim Collins breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6396,7 +6396,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1930,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"The Lean Startup: Special Edition\" by Josh Kaufman distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6409,7 +6409,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2156,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-6.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Daniel Kahneman reveals crucial frameworks in \"Zero to One: Notes on Startups: The Journey\"."
   },
   {
@@ -6422,7 +6422,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2382,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-7.jpg",
     "description": "From ideation to market dominance, \"Good to Great: Field Guide\" offers deep strategic perspective. Ben Horowitz breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6435,7 +6435,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2608,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1520607164069-c25526143aef?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-8.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Clayton M. Christensen reveals crucial frameworks in \"The Personal MBA: Reflections\"."
   },
   {
@@ -6448,7 +6448,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2834,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-1.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. John Doerr reveals crucial frameworks in \"Thinking, Fast and Slow: Expanded Edition\"."
   },
   {
@@ -6461,7 +6461,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3060,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-2.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Jason Fried reveals crucial frameworks in \"The Hard Thing About Hard Things: Masterclass\"."
   },
   {
@@ -6474,7 +6474,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3286,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-3.jpg",
     "description": "An essential playbook for modern founders, executives, and innovators. \"The Innovator's Dilemma: Handbook\" by David Heinemeier Hansson distills decades of market strategy and leadership wisdom into actionable insights."
   },
   {
@@ -6487,7 +6487,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3512,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-4.jpg",
     "description": "Learn how to navigate competition, drive high-velocity growth, and build lasting organizational value. Ray Dalio reveals crucial frameworks in \"Measure What Matters: OKRs: Special Edition\"."
   },
   {
@@ -6500,7 +6500,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3738,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/business/business-5.jpg",
     "description": "From ideation to market dominance, \"Rework: The Journey\" offers deep strategic perspective. Phil Knight breaks down the playbook for winning in competitive global industries."
   },
   {
@@ -6513,7 +6513,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6139,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Yuval Noah Harari illuminates the unseen forces shaping reality and life itself in \"Sapiens: A Brief History of Humankind\"."
   },
   {
@@ -6526,7 +6526,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6365,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Stephen Hawking illuminates the unseen forces shaping reality and life itself in \"A Brief History of Time\"."
   },
   {
@@ -6539,7 +6539,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6591,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Carl Sagan illuminates the unseen forces shaping reality and life itself in \"Cosmos\"."
   },
   {
@@ -6552,7 +6552,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6817,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Selfish Gene\" by Richard Dawkins opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6565,7 +6565,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7043,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Astrophysics for People in a Hurry\", Neil deGrasse Tyson translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6578,7 +6578,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7269,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Brian Greene illuminates the unseen forces shaping reality and life itself in \"The Elegant Universe\"."
   },
   {
@@ -6591,7 +6591,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7495,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Silent Spring\", Rachel Carson translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6604,7 +6604,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7721,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Guns, Germs, and Steel\", Jared Diamond translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6617,7 +6617,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7947,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Gene: An Intimate History\", Siddhartha Mukherjee translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6630,7 +6630,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8173,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Emperor of All Maladies: A Biography of Cancer\", Randall Munroe translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6643,7 +6643,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8399,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"What If? Serious Scientific Answers to Absurd Hypothetical Questions\" by Carlo Rovelli opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6656,7 +6656,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8625,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Richard P. Feynman illuminates the unseen forces shaping reality and life itself in \"Thing Explainer: Complicated Stuff in Simple Words\"."
   },
   {
@@ -6669,7 +6669,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8851,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Seven Brief Lessons on Physics\", Sean Carroll translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6682,7 +6682,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9077,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Peter Wohlleben illuminates the unseen forces shaping reality and life itself in \"The Order of Time\"."
   },
   {
@@ -6695,7 +6695,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9303,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Helgoland: Making Sense of the Quantum Revolution\" by James Nestor opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6708,7 +6708,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9529,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Bill Bryson illuminates the unseen forces shaping reality and life itself in \"Reality Is Not What It Seems\"."
   },
   {
@@ -6721,7 +6721,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9755,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Merlin Sheldrake illuminates the unseen forces shaping reality and life itself in \"Six Easy Pieces\"."
   },
   {
@@ -6734,7 +6734,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 331,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Thomas S. Kuhn illuminates the unseen forces shaping reality and life itself in \"Surely You're Joking, Mr. Feynman!\"."
   },
   {
@@ -6747,7 +6747,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 557,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Fabric of the Cosmos\" by Michio Kaku opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6760,7 +6760,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 783,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Geoffrey West illuminates the unseen forces shaping reality and life itself in \"Until the End of Time\"."
   },
   {
@@ -6773,7 +6773,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1009,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Hidden Life of Trees\", James Gleick translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6786,7 +6786,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1235,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Breath: The New Science of a Lost Art\" by Philipp Dettmer opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6799,7 +6799,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1461,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Body: A Guide for Occupants\", Giulia Enders translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6812,7 +6812,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1687,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Oliver Sacks illuminates the unseen forces shaping reality and life itself in \"Entangled Life: How Fungi Make Our Worlds\"."
   },
   {
@@ -6825,7 +6825,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1913,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Demon-Haunted World: Science as a Candle in the Dark\" by Edward O. Wilson opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6838,7 +6838,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2139,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Pale Blue Dot: A Vision of the Human Future in Space\", David Deutsch translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6851,7 +6851,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2365,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Max Tegmark illuminates the unseen forces shaping reality and life itself in \"Contact\"."
   },
   {
@@ -6864,7 +6864,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2591,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Quantum: Einstein, Bohr, and the Great Debate\", Nick Bostrom translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6877,7 +6877,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2817,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Sabine Hossenfelder illuminates the unseen forces shaping reality and life itself in \"The Structure of Scientific Revolutions\"."
   },
   {
@@ -6890,7 +6890,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3043,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Brief Answers to the Big Questions\" by Lawrence M. Krauss opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6903,7 +6903,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3269,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Physics of the Impossible\", C.V. Raman translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -6916,7 +6916,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3495,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Homi J. Bhabha illuminates the unseen forces shaping reality and life itself in \"The Future of Humanity\"."
   },
   {
@@ -6929,7 +6929,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3721,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The God Delusion\" by Jayant V. Narlikar opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6942,7 +6942,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3947,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. A.P.J. Abdul Kalam illuminates the unseen forces shaping reality and life itself in \"The Blind Watchmaker\"."
   },
   {
@@ -6955,7 +6955,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4173,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Venki Ramakrishnan illuminates the unseen forces shaping reality and life itself in \"Scale: The Universal Laws of Growth\"."
   },
   {
@@ -6968,7 +6968,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4399,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Chaos: Making a New Science\" by Yuval Noah Harari opens a window into the frontiers of scientific understanding."
   },
   {
@@ -6981,7 +6981,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4625,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Stephen Hawking illuminates the unseen forces shaping reality and life itself in \"Immune: A Journey into the Mysterious System That Keeps You Alive\"."
   },
   {
@@ -6994,7 +6994,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4851,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Carl Sagan illuminates the unseen forces shaping reality and life itself in \"Gut: The Inside Story of Our Body's Most Underrated Organ\"."
   },
   {
@@ -7007,7 +7007,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5077,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Richard Dawkins illuminates the unseen forces shaping reality and life itself in \"The Man Who Mistook His Wife for a Hat\"."
   },
   {
@@ -7020,7 +7020,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5303,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Neil deGrasse Tyson illuminates the unseen forces shaping reality and life itself in \"The Diversity of Life\"."
   },
   {
@@ -7033,7 +7033,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5529,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Beginning of Infinity\" by Brian Greene opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7046,7 +7046,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5755,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Life 3.0: Being Human in the Age of Artificial Intelligence\" by Rachel Carson opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7059,7 +7059,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5981,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Jared Diamond illuminates the unseen forces shaping reality and life itself in \"Superintelligence: Paths, Dangers, Strategies\"."
   },
   {
@@ -7072,7 +7072,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6207,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Siddhartha Mukherjee illuminates the unseen forces shaping reality and life itself in \"Existential Physics\"."
   },
   {
@@ -7085,7 +7085,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6433,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"A Universe from Nothing\", Randall Munroe translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7098,7 +7098,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6659,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Gene Machine: The Race to Decipher the Secrets of the Ribosome\" by Carlo Rovelli opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7111,7 +7111,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6885,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Structure of Space-Time\", Richard P. Feynman translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7124,7 +7124,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7111,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Wings of Fire: An Autobiography\" by Sean Carroll opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7137,7 +7137,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7337,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Ignited Minds\" by Peter Wohlleben opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7150,7 +7150,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7563,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Seven Wonders of the Cosmos\", James Nestor translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7163,7 +7163,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7789,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Giulia Enders illuminates the unseen forces shaping reality and life itself in \"Sapiens: A Brief History of Humankind: The Complete Guide\"."
   },
   {
@@ -7176,7 +7176,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8015,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"A Brief History of Time: Legacy Edition\", Oliver Sacks translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7189,7 +7189,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8241,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Edward O. Wilson illuminates the unseen forces shaping reality and life itself in \"Cosmos: The Definitive Collection\"."
   },
   {
@@ -7202,7 +7202,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8467,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Selfish Gene: Illustrated Edition\", David Deutsch translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7215,7 +7215,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8693,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Max Tegmark illuminates the unseen forces shaping reality and life itself in \"Astrophysics for People in a Hurry: Chronicles\"."
   },
   {
@@ -7228,7 +7228,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8919,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Elegant Universe: Volume II\" by Nick Bostrom opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7241,7 +7241,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9145,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Silent Spring: Annotated Edition\" by Sabine Hossenfelder opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7254,7 +7254,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 9371,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Guns, Germs, and Steel: The Complete Guide\", Lawrence M. Krauss translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7267,7 +7267,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9597,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. C.V. Raman illuminates the unseen forces shaping reality and life itself in \"The Gene: An Intimate History: Legacy Edition\"."
   },
   {
@@ -7280,7 +7280,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 173,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Emperor of All Maladies: A Biography of Cancer: The Definitive Collection\", Homi J. Bhabha translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7293,7 +7293,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 399,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Jayant V. Narlikar illuminates the unseen forces shaping reality and life itself in \"What If? Serious Scientific Answers to Absurd Hypothetical Questions: Illustrated Edition\"."
   },
   {
@@ -7306,7 +7306,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 625,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "An eye-opening journey through empirical science and discovery. A.P.J. Abdul Kalam illuminates the unseen forces shaping reality and life itself in \"Thing Explainer: Complicated Stuff in Simple Words: Chronicles\"."
   },
   {
@@ -7319,7 +7319,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 851,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Venki Ramakrishnan illuminates the unseen forces shaping reality and life itself in \"Seven Brief Lessons on Physics: Volume II\"."
   },
   {
@@ -7332,7 +7332,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1077,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Order of Time: Annotated Edition\" by Yuval Noah Harari opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7345,7 +7345,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1303,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Helgoland: Making Sense of the Quantum Revolution: The Complete Guide\", Stephen Hawking translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7358,7 +7358,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1529,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Reality Is Not What It Seems: Legacy Edition\" by Carl Sagan opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7371,7 +7371,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1755,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Six Easy Pieces: The Definitive Collection\", Richard Dawkins translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7384,7 +7384,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1981,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Surely You're Joking, Mr. Feynman!: Illustrated Edition\", Neil deGrasse Tyson translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7397,7 +7397,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2207,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Fabric of the Cosmos: Chronicles\", Brian Greene translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7410,7 +7410,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2433,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Until the End of Time: Volume II\" by Rachel Carson opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7423,7 +7423,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2659,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Hidden Life of Trees: Annotated Edition\", Jared Diamond translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7436,7 +7436,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2885,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Breath: The New Science of a Lost Art: The Complete Guide\" by Siddhartha Mukherjee opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7449,7 +7449,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3111,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Body: A Guide for Occupants: Legacy Edition\", Randall Munroe translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7462,7 +7462,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3337,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Entangled Life: How Fungi Make Our Worlds: The Definitive Collection\" by Carlo Rovelli opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7475,7 +7475,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3563,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Richard P. Feynman illuminates the unseen forces shaping reality and life itself in \"The Demon-Haunted World: Science as a Candle in the Dark: Illustrated Edition\"."
   },
   {
@@ -7488,7 +7488,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3789,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Pale Blue Dot: A Vision of the Human Future in Space: Chronicles\" by Sean Carroll opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7501,7 +7501,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4015,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Contact: Volume II\", Peter Wohlleben translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7514,7 +7514,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4241,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Quantum: Einstein, Bohr, and the Great Debate: Annotated Edition\" by James Nestor opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7527,7 +7527,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4467,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Structure of Scientific Revolutions: The Complete Guide\", Bill Bryson translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7540,7 +7540,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4693,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Brief Answers to the Big Questions: Legacy Edition\" by Merlin Sheldrake opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7553,7 +7553,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4919,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Thomas S. Kuhn illuminates the unseen forces shaping reality and life itself in \"Physics of the Impossible: The Definitive Collection\"."
   },
   {
@@ -7566,7 +7566,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5145,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Michio Kaku illuminates the unseen forces shaping reality and life itself in \"The Future of Humanity: Illustrated Edition\"."
   },
   {
@@ -7579,7 +7579,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5371,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The God Delusion: Chronicles\", Geoffrey West translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7592,7 +7592,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5597,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Blind Watchmaker: Volume II\" by James Gleick opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7605,7 +7605,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5823,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Scale: The Universal Laws of Growth: Annotated Edition\", Philipp Dettmer translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7618,7 +7618,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6049,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Chaos: Making a New Science: The Complete Guide\" by Giulia Enders opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7631,7 +7631,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6275,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Immune: A Journey into the Mysterious System That Keeps You Alive: Legacy Edition\", Oliver Sacks translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7644,7 +7644,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6501,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Edward O. Wilson illuminates the unseen forces shaping reality and life itself in \"Gut: The Inside Story of Our Body's Most Underrated Organ: The Definitive Collection\"."
   },
   {
@@ -7657,7 +7657,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6727,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Man Who Mistook His Wife for a Hat: Illustrated Edition\" by David Deutsch opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7670,7 +7670,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6953,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Diversity of Life: Chronicles\" by Max Tegmark opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7683,7 +7683,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7179,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Beginning of Infinity: Volume II\", Nick Bostrom translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7696,7 +7696,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7405,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Sabine Hossenfelder illuminates the unseen forces shaping reality and life itself in \"Life 3.0: Being Human in the Age of Artificial Intelligence: Annotated Edition\"."
   },
   {
@@ -7709,7 +7709,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7631,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Lawrence M. Krauss illuminates the unseen forces shaping reality and life itself in \"Superintelligence: Paths, Dangers, Strategies: The Complete Guide\"."
   },
   {
@@ -7722,7 +7722,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7857,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Existential Physics: Legacy Edition\" by C.V. Raman opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7735,7 +7735,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8083,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"A Universe from Nothing: The Definitive Collection\", Homi J. Bhabha translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7748,7 +7748,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8309,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Jayant V. Narlikar illuminates the unseen forces shaping reality and life itself in \"Gene Machine: The Race to Decipher the Secrets of the Ribosome: Illustrated Edition\"."
   },
   {
@@ -7761,7 +7761,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8535,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Structure of Space-Time: Chronicles\", A.P.J. Abdul Kalam translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7774,7 +7774,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8761,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Wings of Fire: An Autobiography: Volume II\", Venki Ramakrishnan translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7787,7 +7787,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8987,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Ignited Minds: Annotated Edition\", Yuval Noah Harari translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7800,7 +7800,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9213,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Stephen Hawking illuminates the unseen forces shaping reality and life itself in \"Seven Wonders of the Cosmos: The Complete Guide\"."
   },
   {
@@ -7813,7 +7813,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 9439,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Sapiens: A Brief History of Humankind: Legacy Edition\" by Carl Sagan opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7826,7 +7826,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9665,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Richard Dawkins illuminates the unseen forces shaping reality and life itself in \"A Brief History of Time: The Definitive Collection\"."
   },
   {
@@ -7839,7 +7839,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 241,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Neil deGrasse Tyson illuminates the unseen forces shaping reality and life itself in \"Cosmos: Illustrated Edition\"."
   },
   {
@@ -7852,7 +7852,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 467,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Selfish Gene: Chronicles\" by Brian Greene opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7865,7 +7865,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 693,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Rachel Carson illuminates the unseen forces shaping reality and life itself in \"Astrophysics for People in a Hurry: Volume II\"."
   },
   {
@@ -7878,7 +7878,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 919,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Jared Diamond illuminates the unseen forces shaping reality and life itself in \"The Elegant Universe: Annotated Edition\"."
   },
   {
@@ -7891,7 +7891,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1145,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Silent Spring: The Complete Guide\" by Siddhartha Mukherjee opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7904,7 +7904,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1371,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Guns, Germs, and Steel: Legacy Edition\", Randall Munroe translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -7917,7 +7917,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1597,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Gene: An Intimate History: The Definitive Collection\" by Carlo Rovelli opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7930,7 +7930,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1823,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Richard P. Feynman illuminates the unseen forces shaping reality and life itself in \"The Emperor of All Maladies: A Biography of Cancer: Illustrated Edition\"."
   },
   {
@@ -7943,7 +7943,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2049,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Sean Carroll illuminates the unseen forces shaping reality and life itself in \"What If? Serious Scientific Answers to Absurd Hypothetical Questions: Chronicles\"."
   },
   {
@@ -7956,7 +7956,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2275,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Thing Explainer: Complicated Stuff in Simple Words: Volume II\" by Peter Wohlleben opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7969,7 +7969,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2501,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Seven Brief Lessons on Physics: Annotated Edition\" by James Nestor opens a window into the frontiers of scientific understanding."
   },
   {
@@ -7982,7 +7982,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2727,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Bill Bryson illuminates the unseen forces shaping reality and life itself in \"The Order of Time: The Complete Guide\"."
   },
   {
@@ -7995,7 +7995,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2953,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Helgoland: Making Sense of the Quantum Revolution: Legacy Edition\" by Merlin Sheldrake opens a window into the frontiers of scientific understanding."
   },
   {
@@ -8008,7 +8008,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3179,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Thomas S. Kuhn illuminates the unseen forces shaping reality and life itself in \"Reality Is Not What It Seems: The Definitive Collection\"."
   },
   {
@@ -8021,7 +8021,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3405,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Six Easy Pieces: Illustrated Edition\" by Michio Kaku opens a window into the frontiers of scientific understanding."
   },
   {
@@ -8034,7 +8034,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3631,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-6.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"Surely You're Joking, Mr. Feynman!: Chronicles\", Geoffrey West translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -8047,7 +8047,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3857,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-7.jpg",
     "description": "An eye-opening journey through empirical science and discovery. James Gleick illuminates the unseen forces shaping reality and life itself in \"The Fabric of the Cosmos: Volume II\"."
   },
   {
@@ -8060,7 +8060,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4083,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-8.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Until the End of Time: Annotated Edition\" by Philipp Dettmer opens a window into the frontiers of scientific understanding."
   },
   {
@@ -8073,7 +8073,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4309,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-1.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"The Hidden Life of Trees: The Complete Guide\" by Giulia Enders opens a window into the frontiers of scientific understanding."
   },
   {
@@ -8086,7 +8086,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4535,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-2.jpg",
     "description": "An eye-opening journey through empirical science and discovery. Oliver Sacks illuminates the unseen forces shaping reality and life itself in \"Breath: The New Science of a Lost Art: Legacy Edition\"."
   },
   {
@@ -8099,7 +8099,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4761,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-3.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Body: A Guide for Occupants: The Definitive Collection\", Edward O. Wilson translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -8112,7 +8112,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4987,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-4.jpg",
     "description": "Delve into the deepest questions of our universe and human evolution. \"Entangled Life: How Fungi Make Our Worlds: Illustrated Edition\" by David Deutsch opens a window into the frontiers of scientific understanding."
   },
   {
@@ -8125,7 +8125,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5213,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/science/science-5.jpg",
     "description": "A breathtaking exploration of natural laws, the cosmos, and the wonders of existence. In \"The Demon-Haunted World: Science as a Candle in the Dark: Chronicles\", Max Tegmark translates cutting-edge discoveries into luminous prose."
   },
   {
@@ -8138,7 +8138,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7614,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Educated: A Memoir\" captures the defining moments of an iconic journey told with honesty by Tara Westover."
   },
   {
@@ -8151,7 +8151,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7840,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Steve Jobs\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8164,7 +8164,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8066,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Becoming\", Michelle Obama paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8177,7 +8177,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8292,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Diary of a Young Girl\", Anne Frank paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8190,7 +8190,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8518,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Long Walk to Freedom\", Nelson Mandela paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8203,7 +8203,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8744,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Born a Crime: Stories from a South African Childhood\" captures the defining moments of an iconic journey told with honesty by Trevor Noah."
   },
   {
@@ -8216,7 +8216,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8970,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"When Breath Becomes Air\", Paul Kalanithi paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8229,7 +8229,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9196,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Autobiography of Malcolm X\", Malcolm X paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8242,7 +8242,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 9422,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"I Am Malala\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8255,7 +8255,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9648,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Shoe Dog: A Memoir\" captures the defining moments of an iconic journey told with honesty by Malala Yousafzai."
   },
   {
@@ -8268,7 +8268,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 224,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Wings of Fire\" captures the defining moments of an iconic journey told with honesty by Phil Knight."
   },
   {
@@ -8281,7 +8281,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 450,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Open: An Autobiography\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8294,7 +8294,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 676,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Leonardo da Vinci\" captures the defining moments of an iconic journey told with honesty by Andre Agassi."
   },
   {
@@ -8307,7 +8307,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 902,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Einstein: His Life and Universe\", David McCullough paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8320,7 +8320,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1128,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Benjamin Franklin: An American Life\", Ron Chernow paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8333,7 +8333,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1354,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Elon Musk\", Stacy Schiff paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8346,7 +8346,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1580,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Churchill: A Life\", Doris Kearns Goodwin paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8359,7 +8359,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1806,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Frida: A Biography of Frida Kahlo\", William Manchester paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8372,7 +8372,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2032,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Alexander Hamilton\", Alice Schroeder paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8385,7 +8385,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2258,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Cleopatra: A Life\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8398,7 +8398,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2484,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Team of Rivals: The Political Genius of Abraham Lincoln\", Ernest Hemingway paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8411,7 +8411,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2710,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"The Last Lion: Winston Spencer Churchill\" captures the defining moments of an iconic journey told with honesty by Patti Smith."
   },
   {
@@ -8424,7 +8424,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2936,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"The Snowball: Warren Buffett and the Business of Life\" captures the defining moments of an iconic journey told with honesty by Jeannette Walls."
   },
   {
@@ -8437,7 +8437,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3162,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Kitchen Confidential: Adventures in the Culinary Underbelly\", Cheryl Strayed paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8450,7 +8450,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3388,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"A Moveable Feast\" captures the defining moments of an iconic journey told with honesty by Elie Wiesel."
   },
   {
@@ -8463,7 +8463,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3614,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Just Kids\", Michelle Zauner paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8476,7 +8476,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3840,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Glass Castle\", Matthew McConaughey paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8489,7 +8489,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4066,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Wild: From Lost to Found on the Pacific Crest Trail\" captures the defining moments of an iconic journey told with honesty by Stanley Tucci."
   },
   {
@@ -8502,7 +8502,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4292,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Night\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8515,7 +8515,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4518,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Crying in H Mart\", Matthew Perry paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8528,7 +8528,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4744,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Greenlights\" captures the defining moments of an iconic journey told with honesty by Prince Harry."
   },
   {
@@ -8541,7 +8541,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4970,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Taste: My Life Through Food\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8554,7 +8554,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5196,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Surrender: 40 Songs, One Story\", Paris Hilton paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8567,7 +8567,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5422,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Friends, Lovers, and the Big Terrible Thing\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8580,7 +8580,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5648,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Spare\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8593,7 +8593,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5874,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Finding Me: A Memoir\", Shashi Tharoor paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8606,7 +8606,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6100,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Paris: The Memoir\" captures the defining moments of an iconic journey told with honesty by Khushwant Singh."
   },
   {
@@ -8619,7 +8619,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6326,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Into the Wild\" captures the defining moments of an iconic journey told with honesty by Sanjay Baru."
   },
   {
@@ -8632,7 +8632,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6552,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Into Thin Air\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8645,7 +8645,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6778,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"India After Gandhi\" captures the defining moments of an iconic journey told with honesty by Sachin Tendulkar."
   },
   {
@@ -8658,7 +8658,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7004,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Gandhi: The Years That Changed the World\", Tara Westover paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8671,7 +8671,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7230,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Nehru: The Invention of India\" captures the defining moments of an iconic journey told with honesty by Walter Isaacson."
   },
   {
@@ -8684,7 +8684,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7456,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"An Era of Darkness: The British Empire in India\", Michelle Obama paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8697,7 +8697,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7682,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Playing It My Way: My Autobiography\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8710,7 +8710,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7908,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Unfinished: A Memoir\", Nelson Mandela paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8723,7 +8723,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8134,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Accidental Prime Minister\", Trevor Noah paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8736,7 +8736,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8360,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Truth, Love and a Little Malice\" captures the defining moments of an iconic journey told with honesty by Paul Kalanithi."
   },
   {
@@ -8749,7 +8749,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8586,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"The Golden Threshold\" captures the defining moments of an iconic journey told with honesty by Malcolm X."
   },
   {
@@ -8762,7 +8762,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8812,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Waiting for a Visa: Babasaheb Ambedkar\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8775,7 +8775,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9038,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Educated: A Memoir: Handbook\" captures the defining moments of an iconic journey told with honesty by Doris Kearns Goodwin."
   },
   {
@@ -8788,7 +8788,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9264,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Steve Jobs: Special Edition\", William Manchester paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8801,7 +8801,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 9490,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Becoming: The Journey\", Alice Schroeder paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8814,7 +8814,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9716,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Diary of a Young Girl: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8827,7 +8827,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 292,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Long Walk to Freedom: Reflections\" captures the defining moments of an iconic journey told with honesty by Ernest Hemingway."
   },
   {
@@ -8840,7 +8840,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 518,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Born a Crime: Stories from a South African Childhood: Expanded Edition\" captures the defining moments of an iconic journey told with honesty by Patti Smith."
   },
   {
@@ -8853,7 +8853,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 744,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"When Breath Becomes Air: Masterclass\", Jeannette Walls paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8866,7 +8866,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 970,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"The Autobiography of Malcolm X: Handbook\" captures the defining moments of an iconic journey told with honesty by Cheryl Strayed."
   },
   {
@@ -8879,7 +8879,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1196,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"I Am Malala: Special Edition\" captures the defining moments of an iconic journey told with honesty by Elie Wiesel."
   },
   {
@@ -8892,7 +8892,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1422,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Shoe Dog: A Memoir: The Journey\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8905,7 +8905,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1648,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Wings of Fire: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8918,7 +8918,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1874,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Open: An Autobiography: Reflections\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8931,7 +8931,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2100,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Leonardo da Vinci: Expanded Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8944,7 +8944,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2326,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Einstein: His Life and Universe: Masterclass\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -8957,7 +8957,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2552,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Benjamin Franklin: An American Life: Handbook\", Prince Harry paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8970,7 +8970,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2778,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Elon Musk: Special Edition\", Viola Davis paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8983,7 +8983,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3004,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Churchill: A Life: The Journey\", Paris Hilton paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -8996,7 +8996,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3230,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Frida: A Biography of Frida Kahlo: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9009,7 +9009,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3456,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Alexander Hamilton: Reflections\", Ramachandra Guha paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9022,7 +9022,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3682,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Cleopatra: A Life: Expanded Edition\", Shashi Tharoor paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9035,7 +9035,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3908,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Team of Rivals: The Political Genius of Abraham Lincoln: Masterclass\" captures the defining moments of an iconic journey told with honesty by Khushwant Singh."
   },
   {
@@ -9048,7 +9048,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4134,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Last Lion: Winston Spencer Churchill: Handbook\", Sanjay Baru paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9061,7 +9061,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4360,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Snowball: Warren Buffett and the Business of Life: Special Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9074,7 +9074,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4586,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Kitchen Confidential: Adventures in the Culinary Underbelly: The Journey\" captures the defining moments of an iconic journey told with honesty by Sachin Tendulkar."
   },
   {
@@ -9087,7 +9087,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4812,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"A Moveable Feast: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9100,7 +9100,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5038,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Just Kids: Reflections\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9113,7 +9113,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5264,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"The Glass Castle: Expanded Edition\" captures the defining moments of an iconic journey told with honesty by Michelle Obama."
   },
   {
@@ -9126,7 +9126,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5490,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Wild: From Lost to Found on the Pacific Crest Trail: Masterclass\", Anne Frank paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9139,7 +9139,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5716,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Night: Handbook\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9152,7 +9152,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5942,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Crying in H Mart: Special Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9165,7 +9165,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6168,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Greenlights: The Journey\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9178,7 +9178,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6394,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Taste: My Life Through Food: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9191,7 +9191,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6620,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Surrender: 40 Songs, One Story: Reflections\", Alex Haley paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9204,7 +9204,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6846,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Friends, Lovers, and the Big Terrible Thing: Expanded Edition\", Malala Yousafzai paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9217,7 +9217,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7072,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Spare: Masterclass\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9230,7 +9230,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7298,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Finding Me: A Memoir: Handbook\", A.P.J. Abdul Kalam paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9243,7 +9243,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7524,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Paris: The Memoir: Special Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9256,7 +9256,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7750,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Into the Wild: The Journey\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9269,7 +9269,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7976,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Into Thin Air: Field Guide\", Ron Chernow paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9282,7 +9282,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8202,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"India After Gandhi: Reflections\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9295,7 +9295,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8428,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Gandhi: The Years That Changed the World: Expanded Edition\" captures the defining moments of an iconic journey told with honesty by Doris Kearns Goodwin."
   },
   {
@@ -9308,7 +9308,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8654,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Nehru: The Invention of India: Masterclass\", William Manchester paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9321,7 +9321,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8880,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"An Era of Darkness: The British Empire in India: Handbook\", Alice Schroeder paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9334,7 +9334,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9106,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Playing It My Way: My Autobiography: Special Edition\", Anthony Bourdain paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9347,7 +9347,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9332,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Unfinished: A Memoir: The Journey\" captures the defining moments of an iconic journey told with honesty by Ernest Hemingway."
   },
   {
@@ -9360,7 +9360,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9558,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Accidental Prime Minister: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9373,7 +9373,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9784,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Truth, Love and a Little Malice: Reflections\" captures the defining moments of an iconic journey told with honesty by Jeannette Walls."
   },
   {
@@ -9386,7 +9386,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 360,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Golden Threshold: Expanded Edition\", Cheryl Strayed paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9399,7 +9399,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 586,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Waiting for a Visa: Babasaheb Ambedkar: Masterclass\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9412,7 +9412,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 812,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Educated: A Memoir: Handbook\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9425,7 +9425,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1038,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Steve Jobs: Special Edition\" captures the defining moments of an iconic journey told with honesty by Matthew McConaughey."
   },
   {
@@ -9438,7 +9438,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1264,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Becoming: The Journey\" captures the defining moments of an iconic journey told with honesty by Stanley Tucci."
   },
   {
@@ -9451,7 +9451,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1490,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Diary of a Young Girl: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9464,7 +9464,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1716,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Long Walk to Freedom: Reflections\" captures the defining moments of an iconic journey told with honesty by Matthew Perry."
   },
   {
@@ -9477,7 +9477,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1942,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Born a Crime: Stories from a South African Childhood: Expanded Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9490,7 +9490,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2168,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"When Breath Becomes Air: Masterclass\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9503,7 +9503,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2394,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Autobiography of Malcolm X: Handbook\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9516,7 +9516,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2620,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"I Am Malala: Special Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9529,7 +9529,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2846,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Shoe Dog: A Memoir: The Journey\", Ramachandra Guha paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9542,7 +9542,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3072,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Wings of Fire: Field Guide\", Shashi Tharoor paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9555,7 +9555,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3298,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Open: An Autobiography: Reflections\" captures the defining moments of an iconic journey told with honesty by Khushwant Singh."
   },
   {
@@ -9568,7 +9568,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3524,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Leonardo da Vinci: Expanded Edition\", Sanjay Baru paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9581,7 +9581,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3750,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Einstein: His Life and Universe: Masterclass\" captures the defining moments of an iconic journey told with honesty by Priyanka Chopra Jonas."
   },
   {
@@ -9594,7 +9594,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3976,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Benjamin Franklin: An American Life: Handbook\" captures the defining moments of an iconic journey told with honesty by Sachin Tendulkar."
   },
   {
@@ -9607,7 +9607,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4202,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"Elon Musk: Special Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9620,7 +9620,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4428,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Churchill: A Life: The Journey\", Walter Isaacson paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9633,7 +9633,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4654,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Frida: A Biography of Frida Kahlo: Field Guide\" captures the defining moments of an iconic journey told with honesty by Michelle Obama."
   },
   {
@@ -9646,7 +9646,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4880,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Alexander Hamilton: Reflections\", Anne Frank paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9659,7 +9659,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5106,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-6.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Cleopatra: A Life: Expanded Edition\", Nelson Mandela paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9672,7 +9672,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5332,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-7.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"Team of Rivals: The Political Genius of Abraham Lincoln: Masterclass\", Trevor Noah paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9685,7 +9685,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5558,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-8.jpg",
     "description": "An intimate and revelatory journey into an extraordinary life. In \"The Last Lion: Winston Spencer Churchill: Handbook\", Paul Kalanithi paints an indelible portrait of courage, ambition, and historic impact."
   },
   {
@@ -9698,7 +9698,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5784,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-1.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Snowball: Warren Buffett and the Business of Life: Special Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9711,7 +9711,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6010,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-2.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Kitchen Confidential: Adventures in the Culinary Underbelly: The Journey\" captures the defining moments of an iconic journey told with honesty by Alex Haley."
   },
   {
@@ -9724,7 +9724,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6236,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-3.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"A Moveable Feast: Field Guide\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9737,7 +9737,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6462,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-4.jpg",
     "description": "Drawing from rare archives and heartfelt recollections, \"Just Kids: Reflections\" captures the defining moments of an iconic journey told with honesty by Phil Knight."
   },
   {
@@ -9750,7 +9750,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6688,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/biography/biography-5.jpg",
     "description": "A candid, deeply personal chronicle that inspires and moves readers. \"The Glass Castle: Expanded Edition\" reflects the trials, triumphs, and unforgettable legacy of a true pioneer."
   },
   {
@@ -9763,7 +9763,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9089,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Jane Austen will steal your heart in \"Pride and Prejudice\"."
   },
   {
@@ -9776,7 +9776,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9315,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Taylor Jenkins Reid will steal your heart in \"The Seven Husbands of Evelyn Hugo\"."
   },
   {
@@ -9789,7 +9789,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9541,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "Get swept off your feet in \"It Ends with Us\". Colleen Hoover crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9802,7 +9802,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9767,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"It Starts with Us\". Ali Hazelwood crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9815,7 +9815,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 343,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Emily Henry will steal your heart in \"The Love Hypothesis\"."
   },
   {
@@ -9828,7 +9828,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 569,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "Get swept off your feet in \"Beach Read\". Casey McQuiston crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9841,7 +9841,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 795,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Sally Rooney will steal your heart in \"People We Meet on Vacation\"."
   },
   {
@@ -9854,7 +9854,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1021,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Madeline Miller will steal your heart in \"Book Lovers\"."
   },
   {
@@ -9867,7 +9867,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1247,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "Get swept off your feet in \"Red, White & Royal Blue\". Jojo Moyes crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9880,7 +9880,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1473,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "Get swept off your feet in \"Normal People\". Nicholas Sparks crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9893,7 +9893,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1699,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Song of Achilles\", Diana Gabaldon delivers witty banter and electric romance."
   },
   {
@@ -9906,7 +9906,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1925,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Me Before You\", Charlotte Brontë delivers witty banter and electric romance."
   },
   {
@@ -9919,7 +9919,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2151,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Notebook\", Emily Brontë delivers witty banter and electric romance."
   },
   {
@@ -9932,7 +9932,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2377,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "Get swept off your feet in \"Outlander\". Graeme Simsion crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9945,7 +9945,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2603,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"Jane Eyre\". Rainbow Rowell crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -9958,7 +9958,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2829,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Audrey Niffenegger will steal your heart in \"Wuthering Heights\"."
   },
   {
@@ -9971,7 +9971,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3055,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. David Nicholls will steal your heart in \"Emma\"."
   },
   {
@@ -9984,7 +9984,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3281,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Sarah J. Maas will steal your heart in \"Sense and Sensibility\"."
   },
   {
@@ -9997,7 +9997,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3507,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Persuasion\", Jennifer L. Armentrout delivers witty banter and electric romance."
   },
   {
@@ -10010,7 +10010,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3733,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Rosie Project\", Jenna Evans Welch delivers witty banter and electric romance."
   },
   {
@@ -10023,7 +10023,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3959,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Lynn Painter will steal your heart in \"Eleanor & Park\"."
   },
   {
@@ -10036,7 +10036,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4185,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Fangirl\", Rachel Lynn Solomon delivers witty banter and electric romance."
   },
   {
@@ -10049,7 +10049,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4411,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"The Time Traveler's Wife\". Nicola Yoon crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10062,7 +10062,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4637,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Carley Fortune will steal your heart in \"One Day\"."
   },
   {
@@ -10075,7 +10075,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4863,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"A Court of Thorns and Roses\", Abby Jimenez delivers witty banter and electric romance."
   },
   {
@@ -10088,7 +10088,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5089,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"From Blood and Ash\", Alice Oseman delivers witty banter and electric romance."
   },
   {
@@ -10101,7 +10101,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5315,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "Get swept off your feet in \"Love & Gelato\". Beth O'Leary crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10114,7 +10114,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5541,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Elena Armas will steal your heart in \"Better Than the Movies\"."
   },
   {
@@ -10127,7 +10127,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5767,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "Get swept off your feet in \"Today Tonight Tomorrow\". Sally Thorne crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10140,7 +10140,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5993,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Jesse Q. Sutanto will steal your heart in \"Instructions for Dancing\"."
   },
   {
@@ -10153,7 +10153,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6219,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"Every Summer After\". Ravinder Singh crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10166,7 +10166,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6445,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "Get swept off your feet in \"Meet Me at the Lake\". Durjoy Datta crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10179,7 +10179,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6671,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "Get swept off your feet in \"Love and Other Words\". Preeti Shenoy crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10192,7 +10192,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6897,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Part of Your World\", Sudeep Nagarkar delivers witty banter and electric romance."
   },
   {
@@ -10205,7 +10205,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7123,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Yours Truly\", Novoneel Chakraborty delivers witty banter and electric romance."
   },
   {
@@ -10218,7 +10218,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7349,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Anuja Chauhan will steal your heart in \"Heartstopper\"."
   },
   {
@@ -10231,7 +10231,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7575,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Twinkle Khanna will steal your heart in \"The Flatshare\"."
   },
   {
@@ -10244,7 +10244,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7801,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Spanish Love Deception\", Kavita Kane delivers witty banter and electric romance."
   },
   {
@@ -10257,7 +10257,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8027,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"The Hating Game\". Chitra Banerjee Divakaruni crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10270,7 +10270,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8253,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Dial A for Aunties\", Savina Singh delivers witty banter and electric romance."
   },
   {
@@ -10283,7 +10283,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8479,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Jane Austen will steal your heart in \"I Too Had a Love Story\"."
   },
   {
@@ -10296,7 +10296,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8705,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Can Love Happen Twice?\", Taylor Jenkins Reid delivers witty banter and electric romance."
   },
   {
@@ -10309,7 +10309,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8931,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Of Course I Love You... Till I Find Someone Better\", Colleen Hoover delivers witty banter and electric romance."
   },
   {
@@ -10322,7 +10322,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9157,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Secret Wishlist\", Ali Hazelwood delivers witty banter and electric romance."
   },
   {
@@ -10335,7 +10335,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 9383,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "Get swept off your feet in \"Life is What You Make It\". Emily Henry crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10348,7 +10348,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9609,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Casey McQuiston will steal your heart in \"A Hundred Little Flames\"."
   },
   {
@@ -10361,7 +10361,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 185,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"Few Things Left Unsaid\". Sally Rooney crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10374,7 +10374,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 411,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"That's the Way We Met\", Madeline Miller delivers witty banter and electric romance."
   },
   {
@@ -10387,7 +10387,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 637,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Jojo Moyes will steal your heart in \"The Zoya Factor\"."
   },
   {
@@ -10400,7 +10400,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 863,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "Get swept off your feet in \"Those Pricey Thakur Girls\". Nicholas Sparks crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10413,7 +10413,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1089,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "Get swept off your feet in \"Battle for Bittora\". Diana Gabaldon crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10426,7 +10426,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1315,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"The Forest of Enchantments\". Charlotte Brontë crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10439,7 +10439,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1541,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Emily Brontë will steal your heart in \"The Palace of Illusions\"."
   },
   {
@@ -10452,7 +10452,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1767,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "Get swept off your feet in \"Pyjamas Are Forgiving\". Graeme Simsion crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10465,7 +10465,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1993,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Mrs Funnybones\", Rainbow Rowell delivers witty banter and electric romance."
   },
   {
@@ -10478,7 +10478,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2219,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"A Thousand Boy Kisses\", Audrey Niffenegger delivers witty banter and electric romance."
   },
   {
@@ -10491,7 +10491,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2445,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. David Nicholls will steal your heart in \"Reminders of Him\"."
   },
   {
@@ -10504,7 +10504,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2671,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Sarah J. Maas will steal your heart in \"Ugly Love\"."
   },
   {
@@ -10517,7 +10517,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2897,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "Get swept off your feet in \"Archer's Voice\". Jennifer L. Armentrout crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10530,7 +10530,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3123,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Pride and Prejudice: Volume II\", Beth O'Leary delivers witty banter and electric romance."
   },
   {
@@ -10543,7 +10543,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3349,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Elena Armas will steal your heart in \"The Seven Husbands of Evelyn Hugo: Annotated Edition\"."
   },
   {
@@ -10556,7 +10556,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3575,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Sally Thorne will steal your heart in \"It Ends with Us: The Complete Guide\"."
   },
   {
@@ -10569,7 +10569,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3801,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Jesse Q. Sutanto will steal your heart in \"It Starts with Us: Legacy Edition\"."
   },
   {
@@ -10582,7 +10582,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4027,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Ravinder Singh will steal your heart in \"The Love Hypothesis: The Definitive Collection\"."
   },
   {
@@ -10595,7 +10595,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4253,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "Get swept off your feet in \"Beach Read: Illustrated Edition\". Durjoy Datta crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10608,7 +10608,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4479,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "Get swept off your feet in \"People We Meet on Vacation: Chronicles\". Preeti Shenoy crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10621,7 +10621,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4705,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "Get swept off your feet in \"Book Lovers: Volume II\". Sudeep Nagarkar crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10634,7 +10634,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4931,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"Red, White & Royal Blue: Annotated Edition\". Novoneel Chakraborty crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10647,7 +10647,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5157,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Anuja Chauhan will steal your heart in \"Normal People: The Complete Guide\"."
   },
   {
@@ -10660,7 +10660,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5383,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "Get swept off your feet in \"The Song of Achilles: Legacy Edition\". Twinkle Khanna crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10673,7 +10673,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5609,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Kavita Kane will steal your heart in \"Me Before You: The Definitive Collection\"."
   },
   {
@@ -10686,7 +10686,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5835,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "Get swept off your feet in \"The Notebook: Illustrated Edition\". Chitra Banerjee Divakaruni crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10699,7 +10699,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6061,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Outlander: Chronicles\", Savina Singh delivers witty banter and electric romance."
   },
   {
@@ -10712,7 +10712,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6287,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Jane Eyre: Volume II\", Jane Austen delivers witty banter and electric romance."
   },
   {
@@ -10725,7 +10725,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6513,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Taylor Jenkins Reid will steal your heart in \"Wuthering Heights: Annotated Edition\"."
   },
   {
@@ -10738,7 +10738,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6739,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"Emma: The Complete Guide\". Colleen Hoover crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10751,7 +10751,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6965,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Sense and Sensibility: Legacy Edition\", Ali Hazelwood delivers witty banter and electric romance."
   },
   {
@@ -10764,7 +10764,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7191,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Emily Henry will steal your heart in \"Persuasion: The Definitive Collection\"."
   },
   {
@@ -10777,7 +10777,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7417,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Casey McQuiston will steal your heart in \"The Rosie Project: Illustrated Edition\"."
   },
   {
@@ -10790,7 +10790,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7643,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Sally Rooney will steal your heart in \"Eleanor & Park: Chronicles\"."
   },
   {
@@ -10803,7 +10803,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7869,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Fangirl: Volume II\", Madeline Miller delivers witty banter and electric romance."
   },
   {
@@ -10816,7 +10816,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8095,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Time Traveler's Wife: Annotated Edition\", Jojo Moyes delivers witty banter and electric romance."
   },
   {
@@ -10829,7 +10829,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8321,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"One Day: The Complete Guide\", Nicholas Sparks delivers witty banter and electric romance."
   },
   {
@@ -10842,7 +10842,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8547,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Diana Gabaldon will steal your heart in \"A Court of Thorns and Roses: Legacy Edition\"."
   },
   {
@@ -10855,7 +10855,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8773,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Charlotte Brontë will steal your heart in \"From Blood and Ash: The Definitive Collection\"."
   },
   {
@@ -10868,7 +10868,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8999,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "Get swept off your feet in \"Love & Gelato: Illustrated Edition\". Emily Brontë crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10881,7 +10881,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9225,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Graeme Simsion will steal your heart in \"Better Than the Movies: Chronicles\"."
   },
   {
@@ -10894,7 +10894,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 9451,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "Get swept off your feet in \"Today Tonight Tomorrow: Volume II\". Rainbow Rowell crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10907,7 +10907,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9677,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "Get swept off your feet in \"Instructions for Dancing: Annotated Edition\". Audrey Niffenegger crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10920,7 +10920,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 253,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Every Summer After: The Complete Guide\", David Nicholls delivers witty banter and electric romance."
   },
   {
@@ -10933,7 +10933,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 479,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "Get swept off your feet in \"Meet Me at the Lake: Legacy Edition\". Sarah J. Maas crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10946,7 +10946,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 705,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"Love and Other Words: The Definitive Collection\". Jennifer L. Armentrout crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10959,7 +10959,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 931,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "Get swept off your feet in \"Part of Your World: Illustrated Edition\". Jenna Evans Welch crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10972,7 +10972,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1157,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Lynn Painter will steal your heart in \"Yours Truly: Chronicles\"."
   },
   {
@@ -10985,7 +10985,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1383,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"Heartstopper: Volume II\". Rachel Lynn Solomon crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -10998,7 +10998,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1609,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Flatshare: Annotated Edition\", Nicola Yoon delivers witty banter and electric romance."
   },
   {
@@ -11011,7 +11011,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1835,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Carley Fortune will steal your heart in \"The Spanish Love Deception: The Complete Guide\"."
   },
   {
@@ -11024,7 +11024,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2061,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "Get swept off your feet in \"The Hating Game: Legacy Edition\". Abby Jimenez crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11037,7 +11037,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2287,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Dial A for Aunties: The Definitive Collection\", Alice Oseman delivers witty banter and electric romance."
   },
   {
@@ -11050,7 +11050,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2513,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"I Too Had a Love Story: Illustrated Edition\". Beth O'Leary crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11063,7 +11063,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2739,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Elena Armas will steal your heart in \"Can Love Happen Twice?: Chronicles\"."
   },
   {
@@ -11076,7 +11076,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2965,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "Get swept off your feet in \"Of Course I Love You... Till I Find Someone Better: Volume II\". Sally Thorne crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11089,7 +11089,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3191,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "Get swept off your feet in \"The Secret Wishlist: Annotated Edition\". Jesse Q. Sutanto crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11102,7 +11102,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3417,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Life is What You Make It: The Complete Guide\", Ravinder Singh delivers witty banter and electric romance."
   },
   {
@@ -11115,7 +11115,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3643,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"A Hundred Little Flames: Legacy Edition\", Durjoy Datta delivers witty banter and electric romance."
   },
   {
@@ -11128,7 +11128,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3869,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Few Things Left Unsaid: The Definitive Collection\", Preeti Shenoy delivers witty banter and electric romance."
   },
   {
@@ -11141,7 +11141,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4095,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"That's the Way We Met: Illustrated Edition\", Sudeep Nagarkar delivers witty banter and electric romance."
   },
   {
@@ -11154,7 +11154,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4321,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"The Zoya Factor: Chronicles\". Novoneel Chakraborty crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11167,7 +11167,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4547,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Anuja Chauhan will steal your heart in \"Those Pricey Thakur Girls: Volume II\"."
   },
   {
@@ -11180,7 +11180,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4773,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Twinkle Khanna will steal your heart in \"Battle for Bittora: Annotated Edition\"."
   },
   {
@@ -11193,7 +11193,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4999,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Kavita Kane will steal your heart in \"The Forest of Enchantments: The Complete Guide\"."
   },
   {
@@ -11206,7 +11206,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5225,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "Get swept off your feet in \"The Palace of Illusions: Legacy Edition\". Chitra Banerjee Divakaruni crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11219,7 +11219,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5451,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Pyjamas Are Forgiving: The Definitive Collection\", Savina Singh delivers witty banter and electric romance."
   },
   {
@@ -11232,7 +11232,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5677,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Mrs Funnybones: Illustrated Edition\", Jane Austen delivers witty banter and electric romance."
   },
   {
@@ -11245,7 +11245,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5903,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Taylor Jenkins Reid will steal your heart in \"A Thousand Boy Kisses: Chronicles\"."
   },
   {
@@ -11258,7 +11258,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6129,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "Get swept off your feet in \"Reminders of Him: Volume II\". Colleen Hoover crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11271,7 +11271,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6355,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Ugly Love: Annotated Edition\", Ali Hazelwood delivers witty banter and electric romance."
   },
   {
@@ -11284,7 +11284,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6581,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-6.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Emily Henry will steal your heart in \"Archer's Voice: The Complete Guide\"."
   },
   {
@@ -11297,7 +11297,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6807,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-7.jpg",
     "description": "A beloved romance masterpiece brimming with charm, emotional depth, and page-turning chemistry. Casey McQuiston will steal your heart in \"Pride and Prejudice: Legacy Edition\"."
   },
   {
@@ -11310,7 +11310,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7033,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-8.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Seven Husbands of Evelyn Hugo: The Definitive Collection\", Sally Rooney delivers witty banter and electric romance."
   },
   {
@@ -11323,7 +11323,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7259,
     "badge": "Top Rated",
-    "cover": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-1.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"It Ends with Us: Illustrated Edition\", Madeline Miller delivers witty banter and electric romance."
   },
   {
@@ -11336,7 +11336,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7485,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-2.jpg",
     "description": "Get swept off your feet in \"It Starts with Us: Chronicles\". Jojo Moyes crafts an irresistible story of two souls discovering that the greatest risk in life is daring to love."
   },
   {
@@ -11349,7 +11349,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7711,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-3.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"The Love Hypothesis: Volume II\", Nicholas Sparks delivers witty banter and electric romance."
   },
   {
@@ -11362,7 +11362,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7937,
     "badge": "Sale",
-    "cover": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-4.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"Beach Read: Annotated Edition\", Diana Gabaldon delivers witty banter and electric romance."
   },
   {
@@ -11375,7 +11375,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8163,
     "badge": "Staff Pick",
-    "cover": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/romance/romance-5.jpg",
     "description": "A heartwarming and unforgettable tale of fate, chemistry, and enduring passion. In \"People We Meet on Vacation: The Complete Guide\", Charlotte Brontë delivers witty banter and electric romance."
   },
   {
@@ -11388,7 +11388,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 914,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Alex Michaelides delivers a chilling mystery in \"The Silent Patient\" that you won't be able to put down."
   },
   {
@@ -11401,7 +11401,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1140,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Gillian Flynn delivers a chilling mystery in \"Gone Girl\" that you won't be able to put down."
   },
   {
@@ -11414,7 +11414,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1366,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"And Then There Were None\", Agatha Christie keeps you guessing until the final page."
   },
   {
@@ -11427,7 +11427,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 1592,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Girl with the Dragon Tattoo\", Stieg Larsson keeps you guessing until the final page."
   },
   {
@@ -11440,7 +11440,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 1818,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"In the Woods\" showcases Tana French at the absolute peak of suspense storytelling."
   },
   {
@@ -11453,7 +11453,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2044,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Dan Brown delivers a chilling mystery in \"The Da Vinci Code\" that you won't be able to put down."
   },
   {
@@ -11466,7 +11466,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2270,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Angels & Demons\", Arthur Conan Doyle keeps you guessing until the final page."
   },
   {
@@ -11479,7 +11479,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 2496,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Hound of the Baskervilles\" showcases Raymond Chandler at the absolute peak of suspense storytelling."
   },
   {
@@ -11492,7 +11492,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 2722,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Dashiell Hammett delivers a chilling mystery in \"A Study in Scarlet\" that you won't be able to put down."
   },
   {
@@ -11505,7 +11505,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 2948,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Murder on the Orient Express\", James M. Cain keeps you guessing until the final page."
   },
   {
@@ -11518,7 +11518,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3174,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The ABC Murders\" showcases Daphne du Maurier at the absolute peak of suspense storytelling."
   },
   {
@@ -11531,7 +11531,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3400,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Big Sleep\", Dennis Lehane keeps you guessing until the final page."
   },
   {
@@ -11544,7 +11544,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 3626,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Maltese Falcon\", A.J. Finn keeps you guessing until the final page."
   },
   {
@@ -11557,7 +11557,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 3852,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Paula Hawkins delivers a chilling mystery in \"The Postman Always Rings Twice\" that you won't be able to put down."
   },
   {
@@ -11570,7 +11570,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4078,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Liane Moriarty delivers a chilling mystery in \"Rebecca\" that you won't be able to put down."
   },
   {
@@ -11583,7 +11583,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4304,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Shutter Island\", Colleen Hoover keeps you guessing until the final page."
   },
   {
@@ -11596,7 +11596,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 4530,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Mary Kubica delivers a chilling mystery in \"Sharp Objects\" that you won't be able to put down."
   },
   {
@@ -11609,7 +11609,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 4756,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Dark Places\" showcases Nita Prose at the absolute peak of suspense storytelling."
   },
   {
@@ -11622,7 +11622,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 4982,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Woman in the Window\" showcases Lucy Foley at the absolute peak of suspense storytelling."
   },
   {
@@ -11635,7 +11635,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5208,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Anthony Horowitz delivers a chilling mystery in \"The Girl on the Train\" that you won't be able to put down."
   },
   {
@@ -11648,7 +11648,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5434,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Richard Osman delivers a chilling mystery in \"Big Little Lies\" that you won't be able to put down."
   },
   {
@@ -11661,7 +11661,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 5660,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Verity\" showcases Jo Nesbø at the absolute peak of suspense storytelling."
   },
   {
@@ -11674,7 +11674,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 5886,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Jane Harper delivers a chilling mystery in \"Local Woman Missing\" that you won't be able to put down."
   },
   {
@@ -11687,7 +11687,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6112,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Maid\", Scott Turow keeps you guessing until the final page."
   },
   {
@@ -11700,7 +11700,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6338,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. William Landay delivers a chilling mystery in \"The Paris Apartment\" that you won't be able to put down."
   },
   {
@@ -11713,7 +11713,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 6564,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Shari Lapena delivers a chilling mystery in \"The Guest List\" that you won't be able to put down."
   },
   {
@@ -11726,7 +11726,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 6790,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Hunting Party\" showcases B.A. Paris at the absolute peak of suspense storytelling."
   },
   {
@@ -11739,7 +11739,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7016,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"One by One\" showcases Ruth Ware at the absolute peak of suspense storytelling."
   },
   {
@@ -11752,7 +11752,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7242,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Magpie Murders\" showcases Stuart Turton at the absolute peak of suspense storytelling."
   },
   {
@@ -11765,7 +11765,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7468,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Moonflower Murders\" showcases Kareena Kapoor at the absolute peak of suspense storytelling."
   },
   {
@@ -11778,7 +11778,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 7694,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Thursday Murder Club\", Satyajit Ray keeps you guessing until the final page."
   },
   {
@@ -11791,7 +11791,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 7920,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Man Who Died Twice\" showcases Sharadindu Bandyopadhyay at the absolute peak of suspense storytelling."
   },
   {
@@ -11804,7 +11804,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8146,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Bullet That Missed\", Ashwin Sanghi keeps you guessing until the final page."
   },
   {
@@ -11817,7 +11817,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8372,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Last Devil to Die\" showcases Vikram Chandra at the absolute peak of suspense storytelling."
   },
   {
@@ -11830,7 +11830,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 8598,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Mystic River\" showcases Sujoy Ghosh at the absolute peak of suspense storytelling."
   },
   {
@@ -11843,7 +11843,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 8824,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Surender Mohan Pathak delivers a chilling mystery in \"The Snowman\" that you won't be able to put down."
   },
   {
@@ -11856,7 +11856,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9050,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Madhumita Bhattacharyya delivers a chilling mystery in \"The Dry\" that you won't be able to put down."
   },
   {
@@ -11869,7 +11869,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9276,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Kishore Kumar delivers a chilling mystery in \"Force of Nature\" that you won't be able to put down."
   },
   {
@@ -11882,7 +11882,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 9502,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Bhaskar Chattopadhyay delivers a chilling mystery in \"Presumed Innocent\" that you won't be able to put down."
   },
   {
@@ -11895,7 +11895,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 9728,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Defending Jacob\", Aniruddha Bahal keeps you guessing until the final page."
   },
   {
@@ -11908,7 +11908,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 304,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Couple Next Door\" showcases Alex Michaelides at the absolute peak of suspense storytelling."
   },
   {
@@ -11921,7 +11921,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 530,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Behind Closed Doors\", Gillian Flynn keeps you guessing until the final page."
   },
   {
@@ -11934,7 +11934,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 756,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Woman in Cabin 10\", Agatha Christie keeps you guessing until the final page."
   },
   {
@@ -11947,7 +11947,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 982,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The 7½ Deaths of Evelyn Hardcastle\", Stieg Larsson keeps you guessing until the final page."
   },
   {
@@ -11960,7 +11960,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1208,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Complete Adventures of Feluda\" showcases Tana French at the absolute peak of suspense storytelling."
   },
   {
@@ -11973,7 +11973,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1434,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Byomkesh Bakshi Mysteries\" showcases Dan Brown at the absolute peak of suspense storytelling."
   },
   {
@@ -11986,7 +11986,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 1660,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Rozabal Line\" showcases Arthur Conan Doyle at the absolute peak of suspense storytelling."
   },
   {
@@ -11999,7 +11999,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 1886,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Raymond Chandler delivers a chilling mystery in \"The Krishna Key\" that you won't be able to put down."
   },
   {
@@ -12012,7 +12012,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2112,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Dashiell Hammett delivers a chilling mystery in \"Sacred Games\" that you won't be able to put down."
   },
   {
@@ -12025,7 +12025,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2338,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Sialkot Saga\", James M. Cain keeps you guessing until the final page."
   },
   {
@@ -12038,7 +12038,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 2564,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Daphne du Maurier delivers a chilling mystery in \"The Vault of Vishnu\" that you won't be able to put down."
   },
   {
@@ -12051,7 +12051,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 2790,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Magicians of Fez\" showcases Dennis Lehane at the absolute peak of suspense storytelling."
   },
   {
@@ -12064,7 +12064,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3016,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Dead Meat\", A.J. Finn keeps you guessing until the final page."
   },
   {
@@ -12077,7 +12077,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3242,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Club You to Death\" showcases Paula Hawkins at the absolute peak of suspense storytelling."
   },
   {
@@ -12090,7 +12090,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3468,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Patang\" showcases Liane Moriarty at the absolute peak of suspense storytelling."
   },
   {
@@ -12103,7 +12103,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 3694,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Karachi Deception\" showcases Colleen Hoover at the absolute peak of suspense storytelling."
   },
   {
@@ -12116,7 +12116,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 3920,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Dial A for Murder\", Mary Kubica keeps you guessing until the final page."
   },
   {
@@ -12129,7 +12129,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4146,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Shadow District\", Nita Prose keeps you guessing until the final page."
   },
   {
@@ -12142,7 +12142,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4372,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Chestnut Man\", Lucy Foley keeps you guessing until the final page."
   },
   {
@@ -12155,7 +12155,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 4598,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Chalk Man\", Anthony Horowitz keeps you guessing until the final page."
   },
   {
@@ -12168,7 +12168,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 4824,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Silent Patient: Handbook\" showcases Ruth Ware at the absolute peak of suspense storytelling."
   },
   {
@@ -12181,7 +12181,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5050,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Gone Girl: Special Edition\" showcases Stuart Turton at the absolute peak of suspense storytelling."
   },
   {
@@ -12194,7 +12194,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5276,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Kareena Kapoor delivers a chilling mystery in \"And Then There Were None: The Journey\" that you won't be able to put down."
   },
   {
@@ -12207,7 +12207,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 5502,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Satyajit Ray delivers a chilling mystery in \"The Girl with the Dragon Tattoo: Field Guide\" that you won't be able to put down."
   },
   {
@@ -12220,7 +12220,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 5728,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"In the Woods: Reflections\" showcases Sharadindu Bandyopadhyay at the absolute peak of suspense storytelling."
   },
   {
@@ -12233,7 +12233,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 5954,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Da Vinci Code: Expanded Edition\" showcases Ashwin Sanghi at the absolute peak of suspense storytelling."
   },
   {
@@ -12246,7 +12246,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6180,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Vikram Chandra delivers a chilling mystery in \"Angels & Demons: Masterclass\" that you won't be able to put down."
   },
   {
@@ -12259,7 +12259,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6406,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Hound of the Baskervilles: Handbook\" showcases Sujoy Ghosh at the absolute peak of suspense storytelling."
   },
   {
@@ -12272,7 +12272,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 6632,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Surender Mohan Pathak delivers a chilling mystery in \"A Study in Scarlet: Special Edition\" that you won't be able to put down."
   },
   {
@@ -12285,7 +12285,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 6858,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Murder on the Orient Express: The Journey\", Madhumita Bhattacharyya keeps you guessing until the final page."
   },
   {
@@ -12298,7 +12298,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7084,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The ABC Murders: Field Guide\", Kishore Kumar keeps you guessing until the final page."
   },
   {
@@ -12311,7 +12311,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7310,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Bhaskar Chattopadhyay delivers a chilling mystery in \"The Big Sleep: Reflections\" that you won't be able to put down."
   },
   {
@@ -12324,7 +12324,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 7536,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Maltese Falcon: Expanded Edition\", Aniruddha Bahal keeps you guessing until the final page."
   },
   {
@@ -12337,7 +12337,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 7762,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Postman Always Rings Twice: Masterclass\", Alex Michaelides keeps you guessing until the final page."
   },
   {
@@ -12350,7 +12350,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 7988,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Rebecca: Handbook\" showcases Gillian Flynn at the absolute peak of suspense storytelling."
   },
   {
@@ -12363,7 +12363,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8214,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Shutter Island: Special Edition\" showcases Agatha Christie at the absolute peak of suspense storytelling."
   },
   {
@@ -12376,7 +12376,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8440,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Sharp Objects: The Journey\" showcases Stieg Larsson at the absolute peak of suspense storytelling."
   },
   {
@@ -12389,7 +12389,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 8666,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Dark Places: Field Guide\" showcases Tana French at the absolute peak of suspense storytelling."
   },
   {
@@ -12402,7 +12402,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 8892,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Woman in the Window: Reflections\", Dan Brown keeps you guessing until the final page."
   },
   {
@@ -12415,7 +12415,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9118,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Girl on the Train: Expanded Edition\", Arthur Conan Doyle keeps you guessing until the final page."
   },
   {
@@ -12428,7 +12428,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 9344,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Big Little Lies: Masterclass\", Raymond Chandler keeps you guessing until the final page."
   },
   {
@@ -12441,7 +12441,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 9570,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Verity: Handbook\", Dashiell Hammett keeps you guessing until the final page."
   },
   {
@@ -12454,7 +12454,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 9796,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. James M. Cain delivers a chilling mystery in \"Local Woman Missing: Special Edition\" that you won't be able to put down."
   },
   {
@@ -12467,7 +12467,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 372,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Maid: The Journey\" showcases Daphne du Maurier at the absolute peak of suspense storytelling."
   },
   {
@@ -12480,7 +12480,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 598,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Paris Apartment: Field Guide\" showcases Dennis Lehane at the absolute peak of suspense storytelling."
   },
   {
@@ -12493,7 +12493,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 824,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Guest List: Reflections\", A.J. Finn keeps you guessing until the final page."
   },
   {
@@ -12506,7 +12506,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 1050,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Hunting Party: Expanded Edition\" showcases Paula Hawkins at the absolute peak of suspense storytelling."
   },
   {
@@ -12519,7 +12519,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 1276,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"One by One: Masterclass\", Liane Moriarty keeps you guessing until the final page."
   },
   {
@@ -12532,7 +12532,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 1502,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Magpie Murders: Handbook\" showcases Colleen Hoover at the absolute peak of suspense storytelling."
   },
   {
@@ -12545,7 +12545,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 1728,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Moonflower Murders: Special Edition\", Mary Kubica keeps you guessing until the final page."
   },
   {
@@ -12558,7 +12558,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 1954,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Thursday Murder Club: The Journey\", Nita Prose keeps you guessing until the final page."
   },
   {
@@ -12571,7 +12571,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 2180,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Man Who Died Twice: Field Guide\" showcases Lucy Foley at the absolute peak of suspense storytelling."
   },
   {
@@ -12584,7 +12584,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 2406,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Bullet That Missed: Reflections\" showcases Anthony Horowitz at the absolute peak of suspense storytelling."
   },
   {
@@ -12597,7 +12597,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 2632,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Richard Osman delivers a chilling mystery in \"The Last Devil to Die: Expanded Edition\" that you won't be able to put down."
   },
   {
@@ -12610,7 +12610,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 2858,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Jo Nesbø delivers a chilling mystery in \"Mystic River: Masterclass\" that you won't be able to put down."
   },
   {
@@ -12623,7 +12623,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 3084,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Snowman: Handbook\" showcases Jane Harper at the absolute peak of suspense storytelling."
   },
   {
@@ -12636,7 +12636,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 3310,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Dry: Special Edition\" showcases Scott Turow at the absolute peak of suspense storytelling."
   },
   {
@@ -12649,7 +12649,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 3536,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. William Landay delivers a chilling mystery in \"Force of Nature: The Journey\" that you won't be able to put down."
   },
   {
@@ -12662,7 +12662,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 3762,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Presumed Innocent: Field Guide\", Shari Lapena keeps you guessing until the final page."
   },
   {
@@ -12675,7 +12675,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 3988,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"Defending Jacob: Reflections\", B.A. Paris keeps you guessing until the final page."
   },
   {
@@ -12688,7 +12688,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 4214,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Ruth Ware delivers a chilling mystery in \"The Couple Next Door: Expanded Edition\" that you won't be able to put down."
   },
   {
@@ -12701,7 +12701,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 4440,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Behind Closed Doors: Masterclass\" showcases Stuart Turton at the absolute peak of suspense storytelling."
   },
   {
@@ -12714,7 +12714,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 4666,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Kareena Kapoor delivers a chilling mystery in \"The Woman in Cabin 10: Handbook\" that you won't be able to put down."
   },
   {
@@ -12727,7 +12727,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 4892,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The 7½ Deaths of Evelyn Hardcastle: Special Edition\", Satyajit Ray keeps you guessing until the final page."
   },
   {
@@ -12740,7 +12740,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 5118,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Complete Adventures of Feluda: The Journey\" showcases Sharadindu Bandyopadhyay at the absolute peak of suspense storytelling."
   },
   {
@@ -12753,7 +12753,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 5344,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Byomkesh Bakshi Mysteries: Field Guide\" showcases Ashwin Sanghi at the absolute peak of suspense storytelling."
   },
   {
@@ -12766,7 +12766,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 5570,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Rozabal Line: Reflections\", Vikram Chandra keeps you guessing until the final page."
   },
   {
@@ -12779,7 +12779,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 5796,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Krishna Key: Expanded Edition\" showcases Sujoy Ghosh at the absolute peak of suspense storytelling."
   },
   {
@@ -12792,7 +12792,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 6022,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Sacred Games: Masterclass\" showcases Surender Mohan Pathak at the absolute peak of suspense storytelling."
   },
   {
@@ -12805,7 +12805,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 6248,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Sialkot Saga: Handbook\", Madhumita Bhattacharyya keeps you guessing until the final page."
   },
   {
@@ -12818,7 +12818,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 6474,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Kishore Kumar delivers a chilling mystery in \"The Vault of Vishnu: Special Edition\" that you won't be able to put down."
   },
   {
@@ -12831,7 +12831,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 6700,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Magicians of Fez: The Journey\", Bhaskar Chattopadhyay keeps you guessing until the final page."
   },
   {
@@ -12844,7 +12844,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 6926,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"Dead Meat: Field Guide\" showcases Aniruddha Bahal at the absolute peak of suspense storytelling."
   },
   {
@@ -12857,7 +12857,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 7152,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Alex Michaelides delivers a chilling mystery in \"Club You to Death: Reflections\" that you won't be able to put down."
   },
   {
@@ -12870,7 +12870,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 7378,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Gillian Flynn delivers a chilling mystery in \"Patang: Expanded Edition\" that you won't be able to put down."
   },
   {
@@ -12883,7 +12883,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 7604,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Karachi Deception: Masterclass\" showcases Agatha Christie at the absolute peak of suspense storytelling."
   },
   {
@@ -12896,7 +12896,7 @@ const BOOKS = [
     "rating": 4.9,
     "reviews": 7830,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Stieg Larsson delivers a chilling mystery in \"Dial A for Murder: Handbook\" that you won't be able to put down."
   },
   {
@@ -12909,7 +12909,7 @@ const BOOKS = [
     "rating": 4.4,
     "reviews": 8056,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-6.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"The Shadow District: Special Edition\" showcases Tana French at the absolute peak of suspense storytelling."
   },
   {
@@ -12922,7 +12922,7 @@ const BOOKS = [
     "rating": 4.8,
     "reviews": 8282,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-7.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Dan Brown delivers a chilling mystery in \"The Chestnut Man: The Journey\" that you won't be able to put down."
   },
   {
@@ -12935,7 +12935,7 @@ const BOOKS = [
     "rating": 4.3,
     "reviews": 8508,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-8.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Arthur Conan Doyle delivers a chilling mystery in \"The Chalk Man: Field Guide\" that you won't be able to put down."
   },
   {
@@ -12948,7 +12948,7 @@ const BOOKS = [
     "rating": 4.7,
     "reviews": 8734,
     "badge": "Must Read",
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-1.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Silent Patient: Reflections\", Raymond Chandler keeps you guessing until the final page."
   },
   {
@@ -12961,7 +12961,7 @@ const BOOKS = [
     "rating": 4.2,
     "reviews": 8960,
     "badge": "Classic",
-    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-2.jpg",
     "description": "Every clue matters in this masterclass of deduction and intrigue. Dashiell Hammett delivers a chilling mystery in \"Gone Girl: Expanded Edition\" that you won't be able to put down."
   },
   {
@@ -12974,7 +12974,7 @@ const BOOKS = [
     "rating": 4.6,
     "reviews": 9186,
     "badge": "Trending",
-    "cover": "https://images.unsplash.com/photo-1514537092201-99527ec3cfcb?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-3.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"And Then There Were None: Masterclass\", James M. Cain keeps you guessing until the final page."
   },
   {
@@ -12987,7 +12987,7 @@ const BOOKS = [
     "rating": 4.1,
     "reviews": 9412,
     "badge": "Bestseller",
-    "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-4.jpg",
     "description": "A pulse-pounding psychological thriller packed with unexpected twists and heart-stopping suspense. In \"The Girl with the Dragon Tattoo: Handbook\", Daphne du Maurier keeps you guessing until the final page."
   },
   {
@@ -13000,7 +13000,7 @@ const BOOKS = [
     "rating": 4.5,
     "reviews": 9638,
     "badge": null,
-    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=600&fit=crop&crop=center",
+    "cover": "assets/images/mystery/mystery-5.jpg",
     "description": "Dark secrets, hidden motives, and a gripping race against the clock. \"In the Woods: Special Edition\" showcases Dennis Lehane at the absolute peak of suspense storytelling."
   }
 ];

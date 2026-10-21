@@ -45,7 +45,7 @@ function renderWishlistPage() {
   list.innerHTML = books.map((book, idx) => `
     <li class="wl-item" data-id="${book.id}" style="animation: fadeInUp .4s cubic-bezier(.22,1,.36,1) ${idx * 0.05}s both;">
       <img src="${book.cover}" alt="${book.title}" class="wl-item__img"
-           onerror="this.src='https://via.placeholder.com/80x120/E8742C/ffffff?text=Book'">
+           onerror="this.src='assets/images/fiction/fiction-1.jpg'">
       <div class="wl-item__info">
         <h4 class="wl-item__title">${book.title}</h4>
         <p class="wl-item__author">by ${book.author}</p>

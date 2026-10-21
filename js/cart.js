@@ -71,7 +71,7 @@ function renderCartPage() {
   list.innerHTML = items.map((item, idx) => `
     <li class="cart-item" data-id="${item.id}" style="animation: fadeInUp .4s cubic-bezier(.22,1,.36,1) ${idx * 0.05}s both;">
       <img src="${item.cover}" alt="${item.title}" class="cart-item__img"
-           onerror="this.src='https://via.placeholder.com/80x120/E8742C/ffffff?text=Book'">
+           onerror="this.src='assets/images/fiction/fiction-1.jpg'">
       <div class="cart-item__info">
         <h4 class="cart-item__title">${item.title}</h4>
         <p class="cart-item__author">by ${item.author}</p>
